@@ -1,0 +1,171 @@
+//@version=4
+// study("Binary_Blast_v3", overlay=true)
+
+
+strategy(title='[Motion] Madrid Blast', pyramiding=0, overlay=true, initial_capital=200, calc_on_every_tick=false,
+         currency=currency.USD,default_qty_type=strategy.cash,default_qty_value=50, commission_type=strategy.commission.percent, commission_value=0.1, max_bars_back=180)
+         
+useCurrentRes = input(true, title="MR Use Current Chart Resolution?")
+resCustom = input(title="Use Different Timeframe? Uncheck Box Above", type=input.resolution, defval="60")
+
+useCurrentResBB = input(true, title="BB Use Current Chart Resolution?")
+resCustomBB = input(title="Use Different Timeframe? Uncheck Box Above", type=input.resolution, defval="60")
+
+res = useCurrentRes ? timeframe.period : resCustom
+resBB = useCurrentResBB ? timeframe.period : resCustomBB
+
+
+
+// Madrid Ribbon
+PHI     = ( 1 + sqrt(5) ) / 2
+PI   = 104348/33215
+
+BULL = 1
+BEAR = -1
+NONE = 0
+
+GRN01 = #7CFC00, GRN02 = #32CD32, GRN03 = #228B22, GRN04 = #006400, GRN05 = #008000, GRN06=#093507
+RED01 = #FF4500, RED02 = #FF0000, RED03 = #B22222, RED04 = #8B0000, RED05 = #800000, RED06=#330d06
+
+AQUA    = #00FFFF
+BLACK   = #000000
+BLUE    = #0000FF
+FUCHSIA = #FF00FF
+GRAY    = #808080
+GREEN   = #008000
+LIME    = #00FF00
+MAROON  = #800000
+NAVY    = #000080
+OLIVE   = #808000
+ORANGE  = #FF7F00
+PURPLE  = #800080
+RUBI    = #FF0000
+SILVER  = #C0C0C0
+TEAL    = #008080
+YELLOW  = #FFFF00
+WHITE   = #FFFFFF 
+
+// ──────────[ Moving Average Color ]
+maColor(_ma, _maRef) =>
+    diffMA = change(_ma)
+    macol = diffMA>=0 and _ma>_maRef ? LIME : diffMA<0 and _ma>_maRef ? MAROON : diffMA<=0 and _ma<_maRef ? MAROON : diffMA>=0 and _ma<_maRef ? LIME : GRAY
+           
+_10   = input(false, '───────────[ Madrid Ribbon]───────────' )
+i_exp = input(true ,  title="Expnential MA")
+
+openHA  = security(heikinashi(syminfo.tickerid), res, open)
+closeHA = security(heikinashi(syminfo.tickerid), res, close)
+highHA  = security(heikinashi(syminfo.tickerid), res, high)
+lowHA  = security(heikinashi(syminfo.tickerid), res, low)
+
+src = closeHA //src = close
+ma05  = i_exp ? ema(src, 05) : sma(src, 05)
+ma10  = i_exp ? ema(src, 10) : sma(src, 10)
+ma15  = i_exp ? ema(src, 15) : sma(src, 15)
+ma20  = i_exp ? ema(src, 20) : sma(src, 20)
+ma25  = i_exp ? ema(src, 25) : sma(src, 25)
+ma30  = i_exp ? ema(src, 30) : sma(src, 30)
+ma35  = i_exp ? ema(src, 35) : sma(src, 35)
+ma40  = i_exp ? ema(src, 40) : sma(src, 40)
+ma45  = i_exp ? ema(src, 45) : sma(src, 45)
+ma50  = i_exp ? ema(src, 50) : sma(src, 50)
+ma55  = i_exp ? ema(src, 55) : sma(src, 55)
+ma60  = i_exp ? ema(src, 60) : sma(src, 60)
+ma65  = i_exp ? ema(src, 65) : sma(src, 65)
+ma70  = i_exp ? ema(src, 70) : sma(src, 70)
+ma75  = i_exp ? ema(src, 75) : sma(src, 75)
+ma80  = i_exp ? ema(src, 80) : sma(src, 80)
+ma85  = i_exp ? ema(src, 85) : sma(src, 85)
+ma90  = i_exp ? ema(src, 90) : sma(src, 90)
+ma100 = i_exp ? ema(src, 100): sma(src, 100)
+
+
+
+// ────────────────────[ Plot ]
+plot( ma05, color=maColor(ma05,ma100), style=plot.style_line, title="MMA05", linewidth=3)
+plot( ma10, color=maColor(ma10,ma100), style=plot.style_line, title="MMA10", linewidth=1)
+plot( ma15, color=maColor(ma15,ma100), style=plot.style_line, title="MMA15", linewidth=1)
+plot( ma20, color=maColor(ma20,ma100), style=plot.style_line, title="MMA20", linewidth=1)
+plot( ma25, color=maColor(ma25,ma100), style=plot.style_line, title="MMA25", linewidth=1)
+plot( ma30, color=maColor(ma30,ma100), style=plot.style_line, title="MMA30", linewidth=1)
+plot( ma35, color=maColor(ma35,ma100), style=plot.style_line, title="MMA35", linewidth=1)
+plot( ma40, color=maColor(ma40,ma100), style=plot.style_line, title="MMA40", linewidth=1)
+plot( ma45, color=maColor(ma45,ma100), style=plot.style_line, title="MMA45", linewidth=1)
+plot( ma50, color=maColor(ma50,ma100), style=plot.style_line, title="MMA50", linewidth=1)
+plot( ma55, color=maColor(ma55,ma100), style=plot.style_line, title="MMA55", linewidth=1)
+plot( ma60, color=maColor(ma60,ma100), style=plot.style_line, title="MMA60", linewidth=1)
+plot( ma65, color=maColor(ma65,ma100), style=plot.style_line, title="MMA65", linewidth=1)
+plot( ma70, color=maColor(ma70,ma100), style=plot.style_line, title="MMA70", linewidth=1)
+plot( ma75, color=maColor(ma75,ma100), style=plot.style_line, title="MMA75", linewidth=1)
+plot( ma80, color=maColor(ma80,ma100), style=plot.style_line, title="MMA80", linewidth=1)
+plot( ma85, color=maColor(ma85,ma100), style=plot.style_line, title="MMA85", linewidth=1)
+plot( ma90, color=maColor(ma90,ma100), style=plot.style_line, title="MMA90", linewidth=3)
+
+
+// Binary Blast Code
+openBB  = security(heikinashi(syminfo.tickerid), resBB, open)
+closeBB = security(heikinashi(syminfo.tickerid), resBB, close)
+highBB  = security(heikinashi(syminfo.tickerid), resBB, high)
+lowBB  = security(heikinashi(syminfo.tickerid), resBB, low)
+x1 = ((closeBB+lowBB)*(openBB+highBB))/2
+y1 = ((closeBB+highBB)*(openBB+lowBB))/2
+spike = (x1/y1)
+
+call_mad = (maColor(ma05,ma100) == LIME) and (maColor(ma10,ma100) == LIME) and (maColor(ma15,ma100) == LIME) and (maColor(ma20,ma100) == LIME) and (maColor(ma25,ma100) == LIME) and (maColor(ma30,ma100) == LIME) and (maColor(ma35,ma100) == LIME) and (maColor(ma40,ma100) == LIME) and (maColor(ma45,ma100) == LIME) and (maColor(ma50,ma100) == LIME) and (maColor(ma55,ma100) == LIME) and (maColor(ma60,ma100) == LIME) and (maColor(ma65,ma100) == LIME) and (maColor(ma70,ma100) == LIME) and (maColor(ma75,ma100) == LIME) and (maColor(ma80,ma100) == LIME) and (maColor(ma85,ma100) == LIME) and (maColor(ma90,ma100) == LIME)
+put_mad = (maColor(ma05,ma100) == MAROON) and (maColor(ma10,ma100) == MAROON) and (maColor(ma15,ma100) == MAROON) and (maColor(ma20,ma100) == MAROON) and (maColor(ma25,ma100) == MAROON) and (maColor(ma30,ma100) == MAROON) and (maColor(ma35,ma100) == MAROON) and (maColor(ma40,ma100) == MAROON) and (maColor(ma45,ma100) == MAROON) and (maColor(ma50,ma100) == MAROON) and (maColor(ma55,ma100) == MAROON) and (maColor(ma60,ma100) == MAROON) and (maColor(ma65,ma100) == MAROON) and (maColor(ma70,ma100) == MAROON) and (maColor(ma75,ma100) == MAROON) and (maColor(ma80,ma100) == MAROON) and (maColor(ma85,ma100) == MAROON) and (maColor(ma90,ma100) == MAROON)
+
+y = (spike[1] < 1 and spike >= 1) and (call_mad == true)
+x = (spike[1] > 1 and spike <= 1) and (put_mad == true)
+
+
+// Stop Loss and Take Profit
+
+// sl_inp = 0.2/100
+// tp_inp = 0.5/100
+// stop_level = strategy.position_avg_price * (1 - sl_inp)
+// take_level = strategy.position_avg_price * (1 + tp_inp)
+
+
+
+
+plotchar(x,text="Put",char="",color=color.red)
+plotchar(y,text="Call",char="",color=color.green,location=location.belowbar)
+
+// plotshape(x, style=shape.triangledown,location=location.abovebar, color=red)
+// plotshape(y, style=shape.triangleup,location=location.belowbar, color=green)
+
+
+
+
+//  Strategy: (Thanks to JayRogers)
+// === STRATEGY RELATED INPUTS ===
+//tradeInvert     = input(defval = false, title = "Invert Trade Direction?")
+// the risk management inputs
+inpTakeProfit   = input(defval = 0, title = "Take Profit Points", minval = 0)
+inpStopLoss     = input(defval = 0, title = "Stop Loss Points", minval = 0)
+inpTrailStop    = input(defval = 0, title = "Trailing Stop Loss Points", minval = 0)
+inpTrailOffset  = input(defval = 0, title = "Trailing Stop Loss Offset Points", minval = 0)
+
+// === RISK MANAGEMENT VALUE PREP ===
+// if an input is less than 1, assuming not wanted so we assign 'na' value to disable it.
+useTakeProfit   = inpTakeProfit  >= 1 ? inpTakeProfit  : na
+useStopLoss     = inpStopLoss    >= 1 ? inpStopLoss    : na
+useTrailStop    = inpTrailStop   >= 1 ? inpTrailStop   : na
+useTrailOffset  = inpTrailOffset >= 1 ? inpTrailOffset : na
+
+inDateRange = (time >= timestamp(syminfo.timezone, 2021,
+         9, 1, 0, 0)) and
+     (time < timestamp(syminfo.timezone, 2021, 9, 30, 0, 0))
+     
+if inDateRange == true
+    
+    // === STRATEGY - LONG POSITION EXECUTION ===
+    strategy.entry(id = "Buy", long = true, when = y==true )// use function or simple condition to decide when to get in
+    strategy.close(id = "Buy", when = call_mad==false)// ...and when to get out
+    // strategy.exit("Exit Buy", "Buy", stop=stop_level, limit=take_level)
+    
+    // === STRATEGY - SHORT POSITION EXECUTION ===
+    strategy.entry(id = "Sell", long = false, when = x==true)
+    strategy.close(id = "Sell", when = put_mad==false)
+    // strategy.exit("Exit Sell", "Sell", stop=stop_level, limit=take_level)
+    

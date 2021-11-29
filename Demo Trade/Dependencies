@@ -1,0 +1,42 @@
+Python Binance
+pyhton3 pip install python-binance
+
+Python Mysql
+python3 pip install mysql-connector-python
+
+
+
+
+Demo Parameters
+    
+    self.strategy_name = 'Binary Blast V3'
+    self.strategy_code = 'STG0000000001'
+    self.user_name = 'solo@TLT'
+    self.user_code = 'USR0000000002'
+    self.user_acc_code = 'ACT0000000002'
+    self.trade_type = 'spot' # spot | margin | futures
+
+    self.trade_timeframe = 1
+    self.KLINE_INTERVAL = self.client.KLINE_INTERVAL_1MINUTE # KLINE_INTERVAL_1MINUTE, KLINE_INTERVAL_1HOUR
+
+
+
+
+
+Live Parameters
+
+    self.strategy_name = 'Binary Blast V3'
+    self.strategy_code = 'STG0000000002'
+    self.user_name = 'solo@TLT'
+    self.user_code = 'USR0000000002'
+    self.user_acc_code = 'ACT0000000003'
+    self.trade_type = 'spot' # spot | margin | futures
+
+    self.trade_timeframe = 60
+    self.KLINE_INTERVAL = self.client.KLINE_INTERVAL_1HOUR # KLINE_INTERVAL_1MINUTE, KLINE_INTERVAL_1HOUR
+
+
+
+
+
+

@@ -1,0 +1,1030 @@
+1630680780000.0, 50612.79, 50612.79, 50565.63, 50582.65, SELL
+1630681200000.0, 50690.83, 50690.85, 50661.19, 50681.43, SELL
+1630681380000.0, 50737.26, 50743.9, 50704.88, 50709.95, SELL
+1630681620000.0, 50752.45, 50755.57, 50700.01, 50729.09, SELL
+11, Entry Short, Sell, 07/09/2021 12:59:09, 51018.31, Exit Short, Sell, 07/09/2021 12:59:19, 50999.29000000, SELL Percent Trail
+11, Entry Short, Sell, 07/09/2021 13:06:07, 51006.05, Exit Short, Sell, 07/09/2021 13:06:45, 51017.76000000, SELL Percent Stop Loss
+1, Entry Long, Buy, 07/09/2021 13:24:07, 51074.92, Exit Long, Buy, 07/09/2021 13:24:16, 51060.00000000, BUY Percent Stop Loss
+11, Entry Long, Buy, 07/09/2021 13:29:07, 51045.78, Exit Long, Buy, 07/09/2021 13:29:19, 51046.50000000, BUY Percent Stop Loss
+1, Entry Long, Buy, 07/09/2021 13:48:08, 50827.07, Exit Long, Buy, 07/09/2021 13:48:18, 50851.67000000, BUY Percent Stop Loss
+38, Entry Short, Sell, 07/09/2021 13:51:11, 50806.13, Exit Short, Sell, 07/09/2021 13:51:21, 50790.32000000, SELL Percent Trail
+60, Entry Long, Buy, 07/09/2021 13:53:07, 50808.04, Exit Long, Buy, 07/09/2021 13:53:17, 50804.83000000, BUY Percent Stop Loss
+91, Entry Long, Buy, 07/09/2021 13:56:06, 50725.61, Exit Long, Buy, 07/09/2021 13:56:18, 50758.50000000, BUY Percent Stop Loss
+165, Entry Long, Buy, 07/09/2021 14:02:02, 50527.77, Exit Long, Buy, 07/09/2021 14:02:13, 50611.93000000, BUY Percent Stop Loss
+191, Entry Short, Sell, 07/09/2021 14:05:05, 50732.43, Exit Short, Sell, 07/09/2021 14:05:15, 50749.17000000, SELL Percent Stop Loss
+208, Entry Long, Buy, 07/09/2021 14:07:01, 50768.61, Exit Long, Buy, 07/09/2021 14:07:12, 50763.99000000, BUY Percent Trail
+269, Entry Long, Buy, 07/09/2021 14:13:03, 50597.87, Exit Long, Buy, 07/09/2021 14:13:16, 50565.60000000, BUY Percent Trail
+317, Entry Long, Buy, 07/09/2021 14:18:06, 50423.56, Exit Long, Buy, 07/09/2021 14:18:18, 50377.62000000, BUY Percent Trail
+347, Entry Long, Buy, 07/09/2021 14:21:05, 50319.95, Exit Long, Buy, 07/09/2021 14:21:14, 50327.14000000, BUY Percent Stop Loss
+400, Entry Short, Sell, 07/09/2021 14:26:08, 50114.93, Exit Short, Sell, 07/09/2021 14:26:21, 50180.85000000, SELL Percent Stop Loss
+453, Entry Long, Buy, 07/09/2021 14:32:06, 49972.21, Exit Long, Buy, 07/09/2021 14:32:18, 50012.32000000, BUY Percent Stop Loss
+474, Entry Short, Sell, 07/09/2021 14:34:03, 50081.56, Exit Short, Sell, 07/09/2021 14:34:26, 50167.60000000, SELL Percent Stop Loss
+552, Entry Long, Buy, 07/09/2021 14:38:06, 50091.18, Exit Long, Buy, 07/09/2021 14:38:18, 50098.07000000, BUY Percent Stop Loss
+601, Entry Long, Buy, 07/09/2021 14:43:09, 49930.83, Exit Long, Buy, 07/09/2021 14:43:19, 49871.70000000, BUY Percent Stop Loss
+690, Entry Long, Buy, 07/09/2021 14:51:07, 49000.0, Exit Long, Buy, 07/09/2021 14:51:16, 49001.78000000, BUY Percent Stop Loss
+11, Entry Short, Sell, 07/09/2021 14:55:08, 49111.79, Exit Short, Sell, 07/09/2021 14:55:19, 49126.99000000, SELL Percent Trail
+69, Entry Long, Buy, 07/09/2021 15:01:06, 47608.51, Exit Long, Buy, 07/09/2021 15:01:18, 47403.87000000, BUY Percent Trail
+104, Entry Short, Sell, 07/09/2021 15:05:09, 47773.96, Exit Short, Sell, 07/09/2021 15:05:21, 47469.08000000, SELL Percent Trail
+155, Entry Long, Buy, 07/09/2021 15:11:06, 44311.65, Exit Long, Buy, 07/09/2021 15:11:19, 44677.65000000, BUY Percent Stop Loss
+187, Entry Short, Sell, 07/09/2021 15:15:08, 45700.0, Exit Short, Sell, 07/09/2021 15:15:22, 45521.83000000, SELL Percent Trail
+199, Entry Long, Buy, 07/09/2021 15:17:04, 46274.99, Exit Long, Buy, 07/09/2021 15:17:16, 46427.16000000, BUY Percent Stop Loss
+220, Entry Short, Sell, 07/09/2021 15:21:39, 47062.21, Exit Short, Sell, 07/09/2021 15:21:51, 46987.09000000, SELL Percent Trail
+239, Entry Short, Sell, 07/09/2021 15:24:04, 46968.17, Exit Short, Sell, 07/09/2021 15:24:16, 46937.77000000, SELL Percent Stop Loss
+265, Entry Long, Buy, 07/09/2021 15:27:06, 47026.28, Exit Long, Buy, 07/09/2021 15:27:18, 47005.26000000, BUY Percent Stop Loss
+280, Entry Short, Sell, 07/09/2021 15:29:04, 46865.7, Exit Short, Sell, 07/09/2021 15:29:17, 46750.82000000, SELL Percent Trail
+295, Entry Long, Buy, 07/09/2021 15:31:04, 46745.37, Exit Long, Buy, 07/09/2021 15:31:16, 46730.87000000, BUY Percent Trail
+311, Entry Short, Sell, 07/09/2021 15:33:07, 46505.23, Exit Short, Sell, 07/09/2021 15:33:19, 46578.33000000, SELL Percent Stop Loss
+337, Entry Short, Sell, 07/09/2021 15:36:05, 46709.78, Exit Short, Sell, 07/09/2021 15:36:17, 46760.01000000, SELL Percent Stop Loss
+411, Entry Short, Sell, 07/09/2021 15:44:04, 47326.25, Exit Short, Sell, 07/09/2021 15:44:16, 47375.15000000, SELL Percent Stop Loss
+483, Entry Short, Sell, 07/09/2021 15:51:09, 46588.74, Exit Short, Sell, 07/09/2021 15:51:20, 46424.47000000, SELL Percent Trail
+497, Entry Long, Buy, 07/09/2021 15:53:08, 46617.69, Exit Long, Buy, 07/09/2021 15:53:18, 46620.96000000, BUY Percent Stop Loss
+514, Entry Short, Sell, 07/09/2021 15:55:07, 46561.23, Exit Short, Sell, 07/09/2021 15:55:19, 46661.49000000, SELL Percent Stop Loss
+11, Entry Long, Buy, 08/09/2021 09:26:06, 40836.42, Exit Long, Buy, 08/09/2021 09:26:15, 40836.42000000, BUY Percent Stop Loss
+103, Entry Short, Sell, 08/09/2021 09:33:05, 46022.34, Exit Short, Sell, 08/09/2021 09:33:16, 46042.27000000, SELL Percent Stop Loss
+198, Entry Long, Buy, 08/09/2021 09:37:06, 46027.39, Exit Long, Buy, 08/09/2021 09:37:11, 46020.58000000, BUY Percent Stop Loss
+361, Entry Long, Buy, 08/09/2021 09:45:08, 46088.05, Exit Long, Buy, 08/09/2021 09:45:20, 46139.97000000, BUY Percent Stop Loss
+374, Entry Short, Sell, 08/09/2021 09:47:03, 46128.94, Exit Short, Sell, 08/09/2021 09:47:24, 46090.03000000, SELL Percent Trail
+387, Entry Long, Buy, 08/09/2021 09:49:08, 46095.22, Exit Long, Buy, 08/09/2021 09:49:19, 46132.99000000, BUY Percent Stop Loss
+402, Entry Short, Sell, 08/09/2021 09:51:07, 46136.67, Exit Short, Sell, 08/09/2021 09:51:51, 46124.07000000, SELL Percent Trail
+420, Entry Long, Buy, 08/09/2021 09:54:08, 46181.91, Exit Long, Buy, 08/09/2021 09:54:24, 46247.55000000, BUY Percent Stop Loss
+434, Entry Short, Sell, 08/09/2021 09:56:07, 46280.78, Exit Short, Sell, 08/09/2021 09:56:18, 46259.04000000, SELL Percent Trail
+448, Entry Long, Buy, 08/09/2021 10:00:14, 46273.35, Exit Long, Buy, 08/09/2021 10:00:25, 46281.18000000, BUY Percent Stop Loss
+493, Entry Long, Buy, 08/09/2021 10:05:05, 46091.39, Exit Long, Buy, 08/09/2021 10:05:16, 46084.32000000, BUY Percent Stop Loss
+530, Entry Short, Sell, 08/09/2021 10:09:04, 46087.3, Exit Short, Sell, 08/09/2021 10:09:29, 46120.97000000, SELL Percent Stop Loss
+564, Entry Short, Sell, 08/09/2021 10:13:07, 46186.54, Exit Short, Sell, 08/09/2021 10:13:30, 46180.86000000, SELL Percent Stop Loss
+586, Entry Long, Buy, 08/09/2021 10:16:06, 46190.92, Exit Long, Buy, 08/09/2021 10:16:17, 46190.81000000, BUY Percent Stop Loss
+653, Entry Short, Sell, 08/09/2021 10:23:07, 46200.0, Exit Short, Sell, 08/09/2021 10:23:32, 46162.37000000, SELL Percent Trail
+672, Entry Long, Buy, 08/09/2021 10:26:01, 46142.11, Exit Long, Buy, 08/09/2021 10:26:12, 46101.01000000, BUY Percent Stop Loss
+10, Entry Long, Buy, 08/09/2021 12:01:03, 46524.74, Exit Long, Buy, 08/09/2021 12:01:10, 46536.99000000, BUY Percent Stop Loss
+1, Entry Long, Buy, 08/09/2021 12:04:07, 46495.99, Exit Long, Buy, 08/09/2021 12:04:14, 46480.06000000, BUY Percent Stop Loss
+65, Entry Short, Sell, 08/09/2021 12:10:01, 46560.0, Exit Short, Sell, 08/09/2021 12:10:08, 46524.10000000, SELL Percent Trail
+84, Entry Long, Buy, 08/09/2021 12:12:03, 46523.35, Exit Long, Buy, 08/09/2021 12:12:11, 46492.38000000, BUY Percent Trail
+164, Entry Short, Sell, 08/09/2021 12:20:14, 46542.64, Exit Short, Sell, 08/09/2021 12:20:19, 46571.94000000, SELL Percent Stop Loss
+204, Entry Long, Buy, 08/09/2021 12:24:06, 46541.39, Exit Long, Buy, 08/09/2021 12:24:13, 46547.26000000, BUY Percent Stop Loss
+242, Entry Short, Sell, 08/09/2021 12:28:05, 46555.28, Exit Short, Sell, 08/09/2021 12:28:13, 46580.97000000, SELL Percent Stop Loss
+22, Entry Short, Sell, 08/09/2021 12:28:08, 46564.62, Exit Short, Sell, 08/09/2021 12:28:19, 46618.67000000, SELL Percent Stop Loss
+276, Entry Short, Sell, 08/09/2021 12:31:02, 46514.96, Exit Short, Sell, 08/09/2021 12:31:07, 46484.95000000, SELL Percent Trail
+51, Entry Short, Sell, 08/09/2021 12:31:03, 46500.0, Exit Short, Sell, 08/09/2021 12:31:13, 46456.85000000, SELL Percent Trail
+296, Entry Long, Buy, 08/09/2021 12:33:07, 46522.7, Exit Long, Buy, 08/09/2021 12:33:12, 46524.27000000, BUY Percent Stop Loss
+69, Entry Long, Buy, 08/09/2021 12:33:04, 46516.69, Exit Long, Buy, 08/09/2021 12:33:16, 46524.26000000, BUY Percent Stop Loss
+335, Entry Short, Sell, 08/09/2021 12:36:09, 46512.87, Exit Short, Sell, 08/09/2021 12:36:17, 46529.71000000, SELL Percent Stop Loss
+96, Entry Short, Sell, 08/09/2021 12:36:05, 46512.87, Exit Short, Sell, 08/09/2021 12:36:16, 46529.71000000, SELL Percent Stop Loss
+364, Entry Short, Sell, 08/09/2021 12:39:01, 46529.39, Exit Short, Sell, 08/09/2021 12:39:12, 46547.20000000, SELL Percent Stop Loss
+125, Entry Short, Sell, 08/09/2021 12:39:05, 46532.12, Exit Short, Sell, 08/09/2021 12:39:26, 46562.01000000, SELL Percent Stop Loss
+156, Entry Short, Sell, 08/09/2021 12:42:07, 46618.73, Exit Short, Sell, 08/09/2021 12:42:18, 46624.93000000, SELL Percent Stop Loss
+415, Entry Short, Sell, 08/09/2021 12:42:07, 46618.73, Exit Short, Sell, 08/09/2021 12:43:30, 46632.94000000, SELL Percent Stop Loss
+420, Entry Long, Buy, 08/09/2021 12:44:07, 46659.65, Exit Long, Buy, 08/09/2021 12:44:13, 46639.24000000, BUY Percent Trail
+174, Entry Long, Buy, 08/09/2021 12:44:07, 46659.65, Exit Long, Buy, 08/09/2021 12:44:16, 46644.86000000, BUY Percent Trail
+1, Entry Short, Sell, 08/09/2021 13:40:08, 46492.99, Exit Short, Sell, 08/09/2021 13:40:21, 46502.35000000, SELL Percent Stop Loss
+18, Entry Long, Buy, 08/09/2021 13:42:04, 46493.0, Exit Long, Buy, 08/09/2021 13:42:11, 46493.01000000, BUY Percent Stop Loss
+59, Entry Short, Sell, 08/09/2021 13:46:06, 46461.83, Exit Short, Sell, 08/09/2021 13:46:12, 46450.99000000, SELL Percent Trail
+86, Entry Long, Buy, 08/09/2021 13:49:01, 46405.95, Exit Long, Buy, 08/09/2021 13:49:08, 46446.73000000, BUY Percent Stop Loss
+133, Entry Long, Buy, 08/09/2021 13:52:05, 46354.41, Exit Long, Buy, 08/09/2021 13:52:13, 46382.47000000, BUY Percent Stop Loss
+191, Entry Long, Buy, 08/09/2021 13:56:06, 46247.47, Exit Long, Buy, 08/09/2021 13:56:13, 46227.87000000, BUY Percent Trail
+349, Entry Long, Buy, 08/09/2021 14:06:21, 46222.62, Exit Long, Buy, 08/09/2021 14:06:27, 46177.09000000, BUY Percent Trail
+411, Entry Long, Buy, 08/09/2021 14:12:13, 46130.0, Exit Long, Buy, 08/09/2021 14:12:20, 46103.53000000, BUY Percent Stop Loss
+456, Entry Short, Sell, 08/09/2021 14:17:09, 46189.69, Exit Short, Sell, 08/09/2021 14:17:15, 46206.80000000, SELL Percent Stop Loss
+533, Entry Short, Sell, 08/09/2021 14:23:06, 46213.92, Exit Short, Sell, 08/09/2021 14:24:19, 46226.14000000, SELL Percent Stop Loss
+547, Entry Short, Sell, 08/09/2021 14:26:07, 46209.08, Exit Short, Sell, 08/09/2021 14:26:22, 46229.63000000, SELL Percent Stop Loss
+569, Entry Short, Sell, 08/09/2021 14:29:06, 46238.12, Exit Short, Sell, 08/09/2021 14:29:14, 46269.99000000, SELL Percent Stop Loss
+610, Entry Short, Sell, 08/09/2021 14:36:10, 46257.97, Exit Short, Sell, 08/09/2021 14:36:16, 46214.99000000, SELL Percent Trail
+639, Entry Long, Buy, 08/09/2021 14:40:05, 46170.46, Exit Long, Buy, 08/09/2021 14:40:12, 46160.05000000, BUY Percent Stop Loss
+679, Entry Long, Buy, 08/09/2021 14:45:05, 45755.66, Exit Long, Buy, 08/09/2021 14:45:12, 45737.91000000, BUY Percent Stop Loss
+730, Entry Short, Sell, 08/09/2021 14:51:06, 45772.29, Exit Short, Sell, 08/09/2021 14:51:13, 45813.00000000, SELL Percent Stop Loss
+745, Entry Long, Buy, 08/09/2021 14:53:02, 45693.38, Exit Long, Buy, 08/09/2021 14:53:08, 45691.52000000, BUY Percent Stop Loss
+776, Entry Short, Sell, 08/09/2021 14:57:01, 45808.7, Exit Short, Sell, 08/09/2021 14:57:08, 45860.55000000, SELL Percent Stop Loss
+804, Entry Short, Sell, 08/09/2021 15:00:09, 45826.33, Exit Short, Sell, 08/09/2021 15:00:17, 45901.46000000, SELL Percent Stop Loss
+829, Entry Short, Sell, 08/09/2021 15:03:08, 45852.0, Exit Short, Sell, 08/09/2021 15:03:17, 45940.68000000, SELL Percent Stop Loss
+884, Entry Long, Buy, 08/09/2021 15:09:07, 45858.23, Exit Long, Buy, 08/09/2021 15:09:12, 45867.93000000, BUY Percent Stop Loss
+946, Entry Short, Sell, 08/09/2021 15:17:02, 46291.96, Exit Short, Sell, 08/09/2021 15:17:09, 46357.09000000, SELL Percent Stop Loss
+994, Entry Long, Buy, 08/09/2021 15:23:04, 46146.12, Exit Long, Buy, 08/09/2021 15:23:11, 46109.15000000, BUY Percent Trail
+1034, Entry Long, Buy, 08/09/2021 15:28:05, 46089.53, Exit Long, Buy, 08/09/2021 15:28:13, 46078.98000000, BUY Percent Trail
+1049, Entry Short, Sell, 08/09/2021 15:30:04, 46071.41, Exit Short, Sell, 08/09/2021 15:30:13, 46119.22000000, SELL Percent Stop Loss
+1115, Entry Short, Sell, 08/09/2021 15:37:08, 46195.35, Exit Short, Sell, 08/09/2021 15:37:23, 46197.80000000, SELL Percent Stop Loss
+1147, Entry Short, Sell, 08/09/2021 15:41:04, 46221.98, Exit Short, Sell, 08/09/2021 15:41:10, 46228.01000000, SELL Percent Trail
+1182, Entry Long, Buy, 08/09/2021 15:45:04, 46227.87, Exit Long, Buy, 08/09/2021 15:45:10, 46174.12000000, BUY Percent Trail
+1215, Entry Long, Buy, 08/09/2021 15:49:07, 46138.75, Exit Long, Buy, 08/09/2021 15:49:12, 46152.01000000, BUY Percent Stop Loss
+1, Entry Short, Sell, 08/09/2021 16:59:08, 46409.09, Exit Short, Sell, 08/09/2021 16:59:17, 46431.86000000, SELL Trail Stop Loss
+1, Entry Short, Sell, 08/09/2021 17:13:08, 46361.14, Exit Short, Sell, 08/09/2021 17:13:14, 46345.03000000, SELL Trail Stop Loss
+11, Entry Long, Buy, 08/09/2021 17:54:05, 46251.7, Exit Long, Buy, 08/09/2021 17:54:46, 46269.12000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 08/09/2021 17:56:08, 46180.0, Exit Short, Sell, 08/09/2021 17:56:15, 46122.53000000, SELL Percent Trail
+1, Entry Long, Buy, 08/09/2021 18:37:07, 46390.01, Exit Long, Buy, 08/09/2021 18:38:05, 46363.45000000, BUY Strategy Close
+64, Entry Short, Sell, 08/09/2021 18:41:02, 46280.4, Exit Short, Sell, 08/09/2021 18:42:04, 46283.26000000, SELL Strategy Close
+1, Entry Long, Buy, 08/09/2021 18:44:07, 46303.59, Exit Long, Buy, 08/09/2021 18:44:13, 46291.80000000, BUY Trail Stop Loss
+36, Entry Short, Sell, 08/09/2021 18:46:04, 46252.63, Exit Short, Sell, 08/09/2021 18:46:17, 46250.00000000, SELL Trail Stop Loss
+57, Entry Long, Buy, 08/09/2021 18:48:13, 46277.48, Exit Long, Buy, 08/09/2021 18:48:20, 46272.17000000, BUY Stop Loss
+87, Entry Short, Sell, 08/09/2021 18:50:02, 46319.45, Exit Short, Sell, 08/09/2021 18:50:09, 46288.43000000, SELL Trail Stop Loss
+126, Entry Long, Buy, 08/09/2021 18:52:03, 46294.83, Exit Long, Buy, 08/09/2021 18:52:10, 46303.71000000, BUY Stop Loss
+177, Entry Short, Sell, 08/09/2021 18:56:05, 46347.26, Exit Short, Sell, 08/09/2021 18:56:23, 46380.53000000, SELL Stop Loss
+262, Entry Short, Sell, 08/09/2021 19:01:07, 46421.73, Exit Short, Sell, 08/09/2021 19:01:14, 46413.56000000, SELL Trail Stop Loss
+279, Entry Long, Buy, 08/09/2021 19:03:01, 46422.59, Exit Long, Buy, 08/09/2021 19:03:07, 46413.70000000, BUY Trail Stop Loss
+329, Entry Long, Buy, 08/09/2021 19:08:07, 46250.16, Exit Long, Buy, 08/09/2021 19:08:14, 46328.67000000, BUY Stop Loss
+1, Entry Long, Buy, 09/09/2021 09:07:08, 46306.42, Exit Long, Buy, 09/09/2021 09:07:42, 46310.91000000, BUY Percent Trail
+36, Entry Short, Sell, 09/09/2021 09:11:11, 46330.64, Exit Short, Sell, 09/09/2021 09:11:38, 46354.96000000, SELL Percent Trail
+118, Entry Short, Sell, 09/09/2021 09:17:12, 46338.84, Exit Short, Sell, 09/09/2021 09:17:18, 46361.56000000, SELL Percent Trail
+178, Entry Short, Sell, 09/09/2021 09:20:03, 46316.0, Exit Short, Sell, 09/09/2021 09:20:16, 46329.99000000, SELL Percent Trail
+207, Entry Long, Buy, 09/09/2021 09:23:03, 46289.1, Exit Long, Buy, 09/09/2021 09:23:18, 46308.74000000, BUY Percent Trail
+237, Entry Short, Sell, 09/09/2021 09:26:09, 46300.45, Exit Short, Sell, 09/09/2021 09:26:43, 46282.05000000, SELL Percent Trail
+261, Entry Long, Buy, 09/09/2021 09:29:12, 46269.59, Exit Long, Buy, 09/09/2021 09:29:25, 46307.68000000, BUY Percent Trail
+287, Entry Short, Sell, 09/09/2021 09:32:04, 46261.82, Exit Short, Sell, 09/09/2021 09:33:33, 46289.22000000, SELL Percent Trail
+291, Entry Long, Buy, 09/09/2021 09:34:05, 46292.17, Exit Long, Buy, 09/09/2021 09:35:43, 46275.58000000, BUY Percent Trail
+294, Entry Short, Sell, 09/09/2021 09:36:07, 46260.19, Exit Short, Sell, 09/09/2021 09:37:47, 46270.25000000, SELL Percent Trail
+325, Entry Short, Sell, 09/09/2021 09:41:03, 46286.48, Exit Short, Sell, 09/09/2021 09:41:09, 46240.83000000, SELL Percent Trail
+353, Entry Long, Buy, 09/09/2021 09:44:01, 46237.31, Exit Long, Buy, 09/09/2021 09:44:15, 46271.86000000, BUY Percent Trail
+380, Entry Short, Sell, 09/09/2021 09:46:06, 46232.01, Exit Short, Sell, 09/09/2021 09:46:33, 46245.18000000, SELL Percent Trail
+395, Entry Long, Buy, 09/09/2021 09:48:05, 46253.04, Exit Long, Buy, 09/09/2021 09:48:10, 46292.72000000, BUY Percent Trail
+433, Entry Short, Sell, 09/09/2021 09:52:06, 46260.19, Exit Short, Sell, 09/09/2021 09:52:12, 46214.77000000, SELL Percent Trail
+452, Entry Long, Buy, 09/09/2021 09:54:09, 46198.39, Exit Long, Buy, 09/09/2021 09:54:14, 46250.71000000, BUY Percent Trail
+470, Entry Short, Sell, 09/09/2021 09:56:05, 46264.79, Exit Short, Sell, 09/09/2021 09:56:11, 46236.35000000, SELL Percent Trail
+520, Entry Long, Buy, 09/09/2021 10:01:09, 46176.55, Exit Long, Buy, 09/09/2021 10:01:46, 46159.03000000, BUY Percent Trail
+547, Entry Short, Sell, 09/09/2021 10:06:44, 46018.04, Exit Short, Sell, 09/09/2021 10:08:50, 46069.42000000, SELL Percent Trail
+566, Entry Short, Sell, 09/09/2021 10:11:02, 46094.32, Exit Short, Sell, 09/09/2021 10:13:00, 46107.61000000, SELL Percent Trail
+575, Entry Short, Sell, 09/09/2021 10:14:04, 46070.0, Exit Short, Sell, 09/09/2021 10:14:18, 46075.04000000, SELL Percent Trail
+634, Entry Long, Buy, 09/09/2021 10:20:08, 46017.57, Exit Long, Buy, 09/09/2021 10:20:15, 45991.02000000, BUY Percent Trail
+663, Entry Long, Buy, 09/09/2021 10:23:06, 45986.1, Exit Long, Buy, 09/09/2021 10:23:15, 45997.19000000, BUY Percent Trail
+687, Entry Short, Sell, 09/09/2021 10:26:08, 46079.95, Exit Short, Sell, 09/09/2021 10:26:32, 46062.21000000, SELL Percent Trail
+711, Entry Long, Buy, 09/09/2021 10:31:06, 46139.34, Exit Long, Buy, 09/09/2021 10:33:12, 46041.87000000, BUY Percent Trail
+756, Entry Long, Buy, 09/09/2021 10:38:02, 46030.86, Exit Long, Buy, 09/09/2021 10:38:09, 46054.86000000, BUY Percent Trail
+801, Entry Short, Sell, 09/09/2021 10:42:12, 45990.87, Exit Short, Sell, 09/09/2021 10:42:35, 45992.99000000, SELL Percent Trail
+848, Entry Long, Buy, 09/09/2021 10:47:06, 46037.06, Exit Long, Buy, 09/09/2021 10:47:13, 46025.97000000, BUY Percent Trail
+891, Entry Short, Sell, 09/09/2021 10:51:07, 46141.17, Exit Short, Sell, 09/09/2021 10:51:15, 46156.83000000, SELL Percent Trail
+907, Entry Long, Buy, 09/09/2021 10:53:10, 46145.38, Exit Long, Buy, 09/09/2021 10:53:25, 46139.09000000, BUY Percent Trail
+920, Entry Short, Sell, 09/09/2021 10:55:02, 46106.13, Exit Short, Sell, 09/09/2021 10:55:57, 46117.81000000, SELL Percent Trail
+942, Entry Short, Sell, 09/09/2021 10:58:02, 46120.59, Exit Short, Sell, 09/09/2021 10:58:24, 46138.27000000, SELL Percent Trail
+983, Entry Short, Sell, 09/09/2021 11:01:06, 46090.0, Exit Short, Sell, 09/09/2021 11:01:32, 46100.60000000, SELL Percent Trail
+1042, Entry Short, Sell, 09/09/2021 11:06:05, 46177.85, Exit Short, Sell, 09/09/2021 11:06:17, 46194.93000000, SELL Percent Trail
+1109, Entry Short, Sell, 09/09/2021 11:13:05, 46251.52, Exit Short, Sell, 09/09/2021 11:14:36, 46277.14000000, SELL Percent Trail
+1125, Entry Short, Sell, 09/09/2021 11:25:04, 46277.95, Exit Short, Sell, 09/09/2021 11:27:10, 46307.53000000, SELL Percent Trail
+1137, Entry Short, Sell, 09/09/2021 11:29:13, 46300.01, Exit Short, Sell, 09/09/2021 11:29:20, 46319.99000000, SELL Percent Trail
+1188, Entry Short, Sell, 09/09/2021 11:33:16, 46287.61, Exit Short, Sell, 09/09/2021 11:33:40, 46354.16000000, SELL Percent Trail
+1273, Entry Short, Sell, 09/09/2021 11:39:08, 46331.33, Exit Short, Sell, 09/09/2021 11:39:46, 46311.53000000, SELL Percent Trail
+1296, Entry Short, Sell, 09/09/2021 11:42:07, 46350.31, Exit Short, Sell, 09/09/2021 11:42:35, 46368.64000000, SELL Percent Trail
+1339, Entry Short, Sell, 09/09/2021 11:47:06, 46393.67, Exit Short, Sell, 09/09/2021 11:47:55, 46364.57000000, SELL Percent Trail
+1367, Entry Long, Buy, 09/09/2021 11:51:09, 46294.74, Exit Long, Buy, 09/09/2021 11:51:24, 46320.59000000, BUY Percent Trail
+1397, Entry Short, Sell, 09/09/2021 11:55:03, 46292.44, Exit Short, Sell, 09/09/2021 11:55:18, 46327.80000000, SELL Percent Trail
+1430, Entry Short, Sell, 09/09/2021 11:59:13, 46327.05, Exit Short, Sell, 09/09/2021 11:59:20, 46325.12000000, SELL Percent Trail
+1441, Entry Long, Buy, 09/09/2021 12:01:09, 46383.58, Exit Long, Buy, 09/09/2021 12:01:28, 46375.80000000, BUY Percent Trail
+1468, Entry Long, Buy, 09/09/2021 12:04:09, 46387.11, Exit Long, Buy, 09/09/2021 12:05:56, 46398.18000000, BUY Percent Trail
+1508, Entry Short, Sell, 09/09/2021 12:10:08, 46440.0, Exit Short, Sell, 09/09/2021 12:10:15, 46420.45000000, SELL Percent Trail
+1524, Entry Long, Buy, 09/09/2021 12:12:07, 46393.0, Exit Long, Buy, 09/09/2021 12:12:34, 46404.03000000, BUY Percent Trail
+1538, Entry Short, Sell, 09/09/2021 12:14:13, 46340.44, Exit Short, Sell, 09/09/2021 12:14:32, 46334.14000000, SELL Percent Trail
+1552, Entry Long, Buy, 09/09/2021 12:16:08, 46376.34, Exit Long, Buy, 09/09/2021 12:16:14, 46325.01000000, BUY Percent Trail
+1610, Entry Long, Buy, 09/09/2021 12:22:08, 46167.51, Exit Long, Buy, 09/09/2021 12:22:23, 46137.80000000, BUY Percent Trail
+1627, Entry Short, Sell, 09/09/2021 12:24:06, 46150.18, Exit Short, Sell, 09/09/2021 12:24:21, 46163.56000000, SELL Percent Trail
+1716, Entry Long, Buy, 09/09/2021 12:30:13, 46008.54, Exit Long, Buy, 09/09/2021 12:30:20, 46002.31000000, BUY Percent Trail
+1745, Entry Long, Buy, 09/09/2021 12:33:02, 45811.64, Exit Long, Buy, 09/09/2021 12:33:08, 45841.52000000, BUY Percent Trail
+1790, Entry Short, Sell, 09/09/2021 12:37:02, 45840.55, Exit Short, Sell, 09/09/2021 12:37:08, 45812.59000000, SELL Percent Trail
+1819, Entry Long, Buy, 09/09/2021 12:40:03, 45688.85, Exit Long, Buy, 09/09/2021 12:40:28, 45744.01000000, BUY Percent Trail
+1835, Entry Short, Sell, 09/09/2021 12:42:02, 45675.29, Exit Short, Sell, 09/09/2021 12:42:08, 45695.43000000, SELL Percent Trail
+1882, Entry Short, Sell, 09/09/2021 12:45:03, 45742.36, Exit Short, Sell, 09/09/2021 12:45:11, 45803.47000000, SELL Percent Trail
+1936, Entry Short, Sell, 09/09/2021 12:51:03, 45873.08, Exit Short, Sell, 09/09/2021 12:51:09, 45926.01000000, SELL Percent Trail
+1973, Entry Short, Sell, 09/09/2021 12:55:05, 45966.0, Exit Short, Sell, 09/09/2021 12:55:11, 46324.99000000, SELL Percent Trail
+2084, Entry Short, Sell, 09/09/2021 13:10:06, 47030.0, Exit Short, Sell, 09/09/2021 13:10:14, 47012.61000000, SELL Percent Trail
+2149, Entry Long, Buy, 09/09/2021 13:15:03, 46900.01, Exit Long, Buy, 09/09/2021 13:15:17, 46927.11000000, BUY Percent Trail
+2164, Entry Short, Sell, 09/09/2021 13:17:08, 46995.64, Exit Short, Sell, 09/09/2021 13:17:14, 47023.62000000, SELL Percent Trail
+2213, Entry Short, Sell, 09/09/2021 13:20:08, 47093.97, Exit Short, Sell, 09/09/2021 13:20:31, 47064.30000000, SELL Percent Trail
+2228, Entry Long, Buy, 09/09/2021 13:22:06, 47093.97, Exit Long, Buy, 09/09/2021 13:22:13, 47161.15000000, BUY Percent Trail
+2246, Entry Short, Sell, 09/09/2021 13:24:05, 47117.91, Exit Short, Sell, 09/09/2021 13:24:11, 47143.55000000, SELL Percent Trail
+2265, Entry Long, Buy, 09/09/2021 13:26:09, 47202.36, Exit Long, Buy, 09/09/2021 13:26:15, 47200.53000000, BUY Percent Trail
+2281, Entry Short, Sell, 09/09/2021 13:28:01, 47204.11, Exit Short, Sell, 09/09/2021 13:28:08, 47128.68000000, SELL Percent Trail
+2300, Entry Long, Buy, 09/09/2021 13:30:09, 47137.2, Exit Long, Buy, 09/09/2021 13:31:06, 47155.47000000, BUY Percent Trail
+2307, Entry Short, Sell, 09/09/2021 13:32:09, 47113.38, Exit Short, Sell, 09/09/2021 13:32:27, 47127.23000000, SELL Percent Trail
+2354, Entry Long, Buy, 09/09/2021 13:39:09, 47019.83, Exit Long, Buy, 09/09/2021 13:39:15, 47049.83000000, BUY Percent Trail
+2388, Entry Short, Sell, 09/09/2021 13:43:09, 47006.1, Exit Short, Sell, 09/09/2021 13:43:24, 46986.77000000, SELL Percent Trail
+2449, Entry Long, Buy, 09/09/2021 13:50:06, 46916.6, Exit Long, Buy, 09/09/2021 13:50:12, 46947.89000000, BUY Percent Trail
+2467, Entry Short, Sell, 09/09/2021 13:52:06, 46914.67, Exit Short, Sell, 09/09/2021 13:52:12, 46943.46000000, SELL Percent Trail
+2497, Entry Short, Sell, 09/09/2021 13:55:05, 46939.99, Exit Short, Sell, 09/09/2021 13:55:17, 46939.99000000, SELL Percent Trail
+2550, Entry Short, Sell, 09/09/2021 14:00:09, 46900.02, Exit Short, Sell, 09/09/2021 14:00:15, 46941.98000000, SELL Percent Trail
+2592, Entry Long, Buy, 09/09/2021 14:04:10, 47015.01, Exit Long, Buy, 09/09/2021 14:04:16, 47044.70000000, BUY Percent Trail
+2656, Entry Short, Sell, 09/09/2021 14:11:05, 47050.86, Exit Short, Sell, 09/09/2021 14:11:29, 47018.10000000, SELL Percent Trail
+2684, Entry Long, Buy, 09/09/2021 14:14:10, 47043.3, Exit Long, Buy, 09/09/2021 14:14:17, 47060.75000000, BUY Percent Trail
+2701, Entry Short, Sell, 09/09/2021 14:16:14, 47028.96, Exit Short, Sell, 09/09/2021 14:16:21, 47005.16000000, SELL Percent Trail
+2709, Entry Long, Buy, 09/09/2021 14:21:38, 47016.76, Exit Long, Buy, 09/09/2021 14:23:45, 46978.70000000, BUY Percent Trail
+2711, Entry Long, Buy, 09/09/2021 14:24:06, 46980.27, Exit Long, Buy, 09/09/2021 14:24:13, 46988.00000000, BUY Percent Trail
+2730, Entry Short, Sell, 09/09/2021 14:28:30, 46997.71, Exit Short, Sell, 09/09/2021 14:30:36, 47030.99000000, SELL Percent Trail
+2755, Entry Long, Buy, 09/09/2021 14:34:10, 46959.76, Exit Long, Buy, 09/09/2021 14:34:19, 46963.58000000, BUY Percent Trail
+2773, Entry Short, Sell, 09/09/2021 14:37:10, 46956.0, Exit Short, Sell, 09/09/2021 14:37:44, 46988.65000000, SELL Percent Trail
+2815, Entry Short, Sell, 09/09/2021 14:43:11, 47018.57, Exit Short, Sell, 09/09/2021 14:44:44, 47045.12000000, SELL Percent Trail
+2856, Entry Short, Sell, 09/09/2021 14:50:04, 47013.18, Exit Short, Sell, 09/09/2021 14:50:21, 46998.85000000, SELL Percent Trail
+2881, Entry Short, Sell, 09/09/2021 14:53:10, 46999.12, Exit Short, Sell, 09/09/2021 14:53:16, 46976.35000000, SELL Percent Trail
+2896, Entry Long, Buy, 09/09/2021 14:55:07, 46970.75, Exit Long, Buy, 09/09/2021 14:55:37, 46984.10000000, BUY Percent Trail
+2908, Entry Short, Sell, 09/09/2021 14:57:05, 46954.24, Exit Short, Sell, 09/09/2021 14:57:19, 46985.61000000, SELL Percent Trail
+3017, Entry Short, Sell, 09/09/2021 15:09:08, 46803.84, Exit Short, Sell, 09/09/2021 15:09:15, 46738.87000000, SELL Percent Trail
+3058, Entry Short, Sell, 09/09/2021 15:16:18, 46929.61, Exit Short, Sell, 09/09/2021 15:16:25, 46877.01000000, SELL Percent Trail
+3118, Entry Long, Buy, 09/09/2021 15:24:05, 46896.02, Exit Long, Buy, 09/09/2021 15:24:14, 46925.35000000, BUY Percent Trail
+3148, Entry Long, Buy, 09/09/2021 15:30:17, 46871.5, Exit Long, Buy, 09/09/2021 15:30:41, 46850.01000000, BUY Percent Trail
+3176, Entry Short, Sell, 09/09/2021 15:34:05, 46866.71, Exit Short, Sell, 09/09/2021 15:34:18, 46859.36000000, SELL Percent Trail
+3199, Entry Long, Buy, 09/09/2021 15:37:04, 46213.19, Exit Long, Buy, 09/09/2021 15:37:11, 46831.14000000, BUY Percent Trail
+3240, Entry Short, Sell, 09/09/2021 15:41:05, 46790.59, Exit Short, Sell, 09/09/2021 15:41:11, 46812.41000000, SELL Percent Trail
+3305, Entry Short, Sell, 09/09/2021 15:48:02, 46895.4, Exit Short, Sell, 09/09/2021 15:48:26, 46910.59000000, SELL Percent Trail
+3340, Entry Short, Sell, 09/09/2021 15:52:07, 46938.61, Exit Short, Sell, 09/09/2021 15:52:18, 46908.58000000, SELL Percent Trail
+3363, Entry Long, Buy, 09/09/2021 15:55:02, 46906.64, Exit Long, Buy, 09/09/2021 15:55:29, 46928.26000000, BUY Percent Trail
+3391, Entry Short, Sell, 09/09/2021 15:59:06, 46997.98, Exit Short, Sell, 09/09/2021 16:00:16, 47034.83000000, SELL Percent Trail
+3398, Entry Long, Buy, 09/09/2021 16:01:10, 47007.65, Exit Long, Buy, 09/09/2021 16:01:34, 46992.10000000, BUY Percent Trail
+3419, Entry Short, Sell, 09/09/2021 16:04:04, 47002.14, Exit Short, Sell, 09/09/2021 16:04:22, 47022.47000000, SELL Percent Trail
+3451, Entry Long, Buy, 09/09/2021 16:10:06, 46901.66, Exit Long, Buy, 09/09/2021 16:12:55, 46869.69000000, BUY Percent Trail
+3497, Entry Long, Buy, 09/09/2021 16:18:06, 46860.41, Exit Long, Buy, 09/09/2021 16:18:14, 46863.23000000, BUY Percent Trail
+3535, Entry Short, Sell, 09/09/2021 16:22:03, 46950.2, Exit Short, Sell, 09/09/2021 16:22:22, 46979.99000000, SELL Percent Trail
+3577, Entry Short, Sell, 09/09/2021 16:27:04, 46957.12, Exit Short, Sell, 09/09/2021 16:27:16, 46997.70000000, SELL Percent Trail
+3625, Entry Short, Sell, 09/09/2021 16:32:05, 47052.99, Exit Short, Sell, 09/09/2021 16:32:13, 47081.49000000, SELL Percent Trail
+3642, Entry Long, Buy, 09/09/2021 16:34:05, 47042.27, Exit Long, Buy, 09/09/2021 16:34:13, 47054.26000000, BUY Percent Trail
+3697, Entry Short, Sell, 09/09/2021 16:43:09, 47179.21, Exit Short, Sell, 09/09/2021 16:43:45, 47188.41000000, SELL Percent Trail
+3730, Entry Long, Buy, 09/09/2021 16:47:07, 47113.03, Exit Long, Buy, 09/09/2021 16:49:25, 47169.52000000, BUY Percent Trail
+3743, Entry Short, Sell, 09/09/2021 16:51:07, 47137.47, Exit Short, Sell, 09/09/2021 16:51:12, 47145.01000000, SELL Percent Trail
+3795, Entry Short, Sell, 09/09/2021 16:56:14, 47210.29, Exit Short, Sell, 09/09/2021 16:56:22, 47171.86000000, SELL Percent Trail
+3831, Entry Long, Buy, 09/09/2021 17:03:01, 47141.91, Exit Long, Buy, 09/09/2021 17:03:07, 47153.99000000, BUY Percent Trail
+3849, Entry Short, Sell, 09/09/2021 17:05:02, 47177.82, Exit Short, Sell, 09/09/2021 17:05:08, 47176.28000000, SELL Percent Trail
+22, Entry Short, Sell, 09/09/2021 17:22:10, 47107.85, Exit Short, Sell, 09/09/2021 17:22:29, 47095.43000000, SELL Trail Stop Loss
+224, Entry Long, Buy, 09/09/2021 17:30:05, 47058.75, Exit Long, Buy, 09/09/2021 17:30:12, 47032.02000000, BUY Trail Stop Loss
+378, Entry Short, Sell, 09/09/2021 17:37:11, 46970.34, Exit Short, Sell, 09/09/2021 17:37:16, 46960.75000000, SELL Trail Stop Loss
+409, Entry Short, Sell, 09/09/2021 17:40:05, 46889.21, Exit Short, Sell, 09/09/2021 17:40:11, 46890.03000000, SELL Percent Trail
+589, Entry Short, Sell, 09/09/2021 17:49:06, 46914.02, Exit Short, Sell, 09/09/2021 17:49:21, 46911.86000000, SELL Trail Stop Loss
+617, Entry Long, Buy, 09/09/2021 17:52:06, 46857.77, Exit Long, Buy, 09/09/2021 17:52:12, 46853.24000000, BUY Trail Stop Loss
+638, Entry Long, Buy, 09/09/2021 17:54:10, 46853.69, Exit Long, Buy, 09/09/2021 17:54:15, 46857.72000000, BUY Trail Stop Loss
+657, Entry Short, Sell, 09/09/2021 17:56:06, 46847.54, Exit Short, Sell, 09/09/2021 17:56:12, 46836.56000000, SELL Trail Stop Loss
+677, Entry Long, Buy, 09/09/2021 17:58:01, 46808.37, Exit Long, Buy, 09/09/2021 17:58:08, 46810.72000000, BUY Stop Loss
+10, Entry Long, Buy, 09/09/2021 18:01:02, 46818.46, Exit Long, Buy, 09/09/2021 18:01:07, 46820.41000000, BUY Trail Stop Loss
+11, Entry Long, Buy, 09/09/2021 18:04:03, 46811.57, Exit Long, Buy, 09/09/2021 18:04:08, 46809.79000000, BUY Stop Loss
+1, Entry Long, Buy, 09/09/2021 18:06:07, 46788.92, Exit Long, Buy, 09/09/2021 18:06:14, 46803.39000000, BUY Stop Loss
+21, Entry Short, Sell, 09/09/2021 18:10:05, 46800.0, Exit Short, Sell, 09/09/2021 18:10:13, 46779.37000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 09/09/2021 18:35:06, 46734.24, Exit Long, Buy, 09/09/2021 18:35:13, 46755.31000000, BUY Percent Trail
+1, Entry Short, Sell, 15/09/2021 15:05:07, 47841.0, Exit Short, Sell, 15/09/2021 15:05:13, 47816.45000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 15/09/2021 15:09:07, 47916.83, Exit Long, Buy, 15/09/2021 15:09:14, 47925.10000000, BUY Percent Trail
+151, Entry Short, Sell, 15/09/2021 15:18:04, 48122.41, Exit Short, Sell, 15/09/2021 15:18:29, 48108.76000000, SELL Trail Stop Loss
+211, Entry Long, Buy, 15/09/2021 15:22:06, 48015.88, Exit Long, Buy, 15/09/2021 15:22:11, 48039.32000000, BUY Stop Loss
+230, Entry Short, Sell, 15/09/2021 15:24:03, 48023.11, Exit Short, Sell, 15/09/2021 15:24:08, 48023.01000000, SELL Percent Trail
+269, Entry Long, Buy, 15/09/2021 15:26:04, 48014.4, Exit Long, Buy, 15/09/2021 15:26:10, 48026.56000000, BUY Stop Loss
+291, Entry Short, Sell, 15/09/2021 15:28:09, 48055.28, Exit Short, Sell, 15/09/2021 15:28:14, 48057.98000000, SELL Strategy Close
+310, Entry Long, Buy, 15/09/2021 15:30:07, 48052.71, Exit Long, Buy, 15/09/2021 15:30:15, 48034.40000000, BUY Trail Stop Loss
+339, Entry Short, Sell, 15/09/2021 15:33:04, 48145.81, Exit Short, Sell, 15/09/2021 15:33:16, 48157.05000000, SELL Percent Trail
+358, Entry Long, Buy, 15/09/2021 15:35:09, 48143.81, Exit Long, Buy, 15/09/2021 15:35:14, 48149.98000000, BUY Trail Stop Loss
+386, Entry Short, Sell, 15/09/2021 15:38:05, 48175.27, Exit Short, Sell, 15/09/2021 15:38:10, 48109.53000000, SELL Trail Stop Loss
+413, Entry Long, Buy, 15/09/2021 15:40:05, 48175.02, Exit Long, Buy, 15/09/2021 15:40:11, 48194.58000000, BUY Stop Loss
+453, Entry Short, Sell, 15/09/2021 15:44:06, 48233.88, Exit Short, Sell, 15/09/2021 15:44:17, 48250.06000000, SELL Percent Trail
+503, Entry Short, Sell, 15/09/2021 15:47:08, 48235.71, Exit Short, Sell, 15/09/2021 15:47:26, 48233.51000000, SELL Trail Stop Loss
+530, Entry Long, Buy, 15/09/2021 15:50:07, 48204.82, Exit Long, Buy, 15/09/2021 15:50:12, 48181.61000000, BUY Trail Stop Loss
+577, Entry Long, Buy, 15/09/2021 15:53:03, 48170.32, Exit Long, Buy, 15/09/2021 15:53:08, 48171.84000000, BUY Trail Stop Loss
+693, Entry Short, Sell, 15/09/2021 16:01:09, 48275.05, Exit Short, Sell, 15/09/2021 16:01:24, 48289.99000000, SELL Percent Trail
+735, Entry Short, Sell, 15/09/2021 16:04:02, 48248.51, Exit Short, Sell, 15/09/2021 16:04:10, 48257.66000000, SELL Trail Stop Loss
+754, Entry Long, Buy, 15/09/2021 16:06:04, 48255.67, Exit Long, Buy, 15/09/2021 16:06:09, 48249.11000000, BUY Trail Stop Loss
+785, Entry Short, Sell, 15/09/2021 16:09:05, 48226.98, Exit Short, Sell, 15/09/2021 16:09:13, 48226.01000000, SELL Trail Stop Loss
+803, Entry Long, Buy, 15/09/2021 16:11:06, 48278.77, Exit Long, Buy, 15/09/2021 16:11:14, 48293.99000000, BUY Percent Trail
+840, Entry Short, Sell, 15/09/2021 16:15:05, 48321.83, Exit Short, Sell, 15/09/2021 16:15:13, 48327.77000000, SELL Percent Trail
+872, Entry Short, Sell, 15/09/2021 16:18:03, 48381.52, Exit Short, Sell, 15/09/2021 16:18:11, 48392.87000000, SELL Percent Trail
+904, Entry Short, Sell, 15/09/2021 16:21:05, 48335.39, Exit Short, Sell, 15/09/2021 16:21:13, 48336.03000000, SELL Strategy Close
+930, Entry Long, Buy, 15/09/2021 16:23:04, 48321.62, Exit Long, Buy, 15/09/2021 16:23:12, 48329.19000000, BUY Stop Loss
+950, Entry Short, Sell, 15/09/2021 16:25:02, 48281.69, Exit Short, Sell, 15/09/2021 16:25:09, 48294.47000000, SELL Percent Trail
+1047, Entry Long, Buy, 15/09/2021 16:31:03, 48229.97, Exit Long, Buy, 15/09/2021 16:31:09, 48246.81000000, BUY Percent Trail
+1115, Entry Long, Buy, 15/09/2021 16:37:06, 48221.37, Exit Long, Buy, 15/09/2021 16:37:13, 48221.38000000, BUY Stop Loss
+1210, Entry Short, Sell, 15/09/2021 16:44:05, 48247.11, Exit Short, Sell, 15/09/2021 16:44:13, 48256.99000000, SELL Percent Trail
+1337, Entry Long, Buy, 15/09/2021 16:51:05, 48197.71, Exit Long, Buy, 15/09/2021 16:51:11, 48200.52000000, BUY Stop Loss
+1397, Entry Long, Buy, 15/09/2021 16:55:04, 48155.29, Exit Long, Buy, 15/09/2021 16:55:10, 48156.29000000, BUY Trail Stop Loss
+1461, Entry Long, Buy, 15/09/2021 17:00:08, 48058.37, Exit Long, Buy, 15/09/2021 17:00:14, 48056.20000000, BUY Trail Stop Loss
+1556, Entry Short, Sell, 15/09/2021 17:07:07, 48135.93, Exit Short, Sell, 15/09/2021 17:07:12, 48131.03000000, SELL Trail Stop Loss
+1576, Entry Long, Buy, 15/09/2021 17:09:05, 48125.27, Exit Long, Buy, 15/09/2021 17:09:10, 48135.16000000, BUY Stop Loss
+1672, Entry Short, Sell, 15/09/2021 17:14:06, 48131.56, Exit Short, Sell, 15/09/2021 17:14:13, 48145.16000000, SELL Percent Trail
+1723, Entry Short, Sell, 15/09/2021 17:17:06, 48112.15, Exit Short, Sell, 15/09/2021 17:17:24, 48100.02000000, SELL Trail Stop Loss
+1741, Entry Long, Buy, 15/09/2021 17:19:08, 48121.19, Exit Long, Buy, 15/09/2021 17:19:15, 48110.40000000, BUY Trail Stop Loss
+1818, Entry Short, Sell, 15/09/2021 17:23:03, 48137.64, Exit Short, Sell, 15/09/2021 17:23:14, 48152.62000000, SELL Percent Trail
+1837, Entry Long, Buy, 15/09/2021 17:25:03, 44268.11, Exit Long, Buy, 15/09/2021 17:25:08, 48141.40000000, BUY Percent Trail
+1896, Entry Short, Sell, 15/09/2021 17:30:05, 48189.1, Exit Short, Sell, 15/09/2021 17:30:42, 48199.98000000, SELL Percent Trail
+1941, Entry Short, Sell, 15/09/2021 17:35:05, 48224.81, Exit Short, Sell, 15/09/2021 17:35:12, 48216.88000000, SELL Trail Stop Loss
+1961, Entry Long, Buy, 15/09/2021 17:37:09, 48203.71, Exit Long, Buy, 15/09/2021 17:37:16, 48204.14000000, BUY Stop Loss
+1990, Entry Short, Sell, 15/09/2021 17:40:07, 48221.85, Exit Short, Sell, 15/09/2021 17:40:13, 48236.08000000, SELL Percent Trail
+2120, Entry Long, Buy, 15/09/2021 17:48:04, 48166.39, Exit Long, Buy, 15/09/2021 17:48:10, 48159.66000000, BUY Trail Stop Loss
+2149, Entry Short, Sell, 15/09/2021 17:51:07, 48232.55, Exit Short, Sell, 15/09/2021 17:51:12, 48176.76000000, SELL Trail Stop Loss
+2207, Entry Long, Buy, 15/09/2021 17:57:05, 48056.75, Exit Long, Buy, 15/09/2021 17:57:10, 48065.33000000, BUY Percent Trail
+2234, Entry Short, Sell, 15/09/2021 17:59:07, 48065.22, Exit Short, Sell, 15/09/2021 17:59:11, 48035.00000000, SELL Trail Stop Loss
+2255, Entry Long, Buy, 15/09/2021 18:01:07, 48029.71, Exit Long, Buy, 15/09/2021 18:01:12, 48017.55000000, BUY Stop Loss
+2275, Entry Short, Sell, 15/09/2021 18:03:06, 47966.67, Exit Short, Sell, 15/09/2021 18:03:22, 47934.29000000, SELL Trail Stop Loss
+2304, Entry Long, Buy, 15/09/2021 18:06:03, 47924.01, Exit Long, Buy, 15/09/2021 18:06:09, 47942.70000000, BUY Percent Trail
+2356, Entry Long, Buy, 15/09/2021 18:09:06, 47872.83, Exit Long, Buy, 15/09/2021 18:09:10, 47899.99000000, BUY Percent Trail
+2405, Entry Short, Sell, 15/09/2021 18:13:08, 47978.16, Exit Short, Sell, 15/09/2021 18:13:40, 47974.41000000, SELL Trail Stop Loss
+2568, Entry Long, Buy, 15/09/2021 18:21:03, 47994.05, Exit Long, Buy, 15/09/2021 18:21:07, 47999.98000000, BUY Stop Loss
+2610, Entry Short, Sell, 15/09/2021 18:23:04, 47925.3, Exit Short, Sell, 15/09/2021 18:23:09, 47928.46000000, SELL Trail Stop Loss
+2688, Entry Short, Sell, 15/09/2021 18:27:07, 47939.14, Exit Short, Sell, 15/09/2021 18:27:11, 47938.00000000, SELL Trail Stop Loss
+2721, Entry Short, Sell, 15/09/2021 18:30:03, 47978.06, Exit Short, Sell, 15/09/2021 18:30:08, 47990.51000000, SELL Percent Trail
+2773, Entry Short, Sell, 15/09/2021 18:33:05, 48003.7, Exit Short, Sell, 15/09/2021 18:33:11, 48001.04000000, SELL Trail Stop Loss
+2803, Entry Long, Buy, 15/09/2021 18:36:04, 47938.01, Exit Long, Buy, 15/09/2021 18:36:10, 47937.07000000, BUY Stop Loss
+2837, Entry Long, Buy, 15/09/2021 18:39:04, 47914.05, Exit Long, Buy, 15/09/2021 18:39:10, 47920.00000000, BUY Stop Loss
+29, Entry Long, Buy, 16/09/2021 09:56:06, 47951.86, Exit Long, Buy, 16/09/2021 09:56:12, 47953.70000000, BUY Stop Loss
+57, Entry Short, Sell, 16/09/2021 09:59:03, 47945.99, Exit Short, Sell, 16/09/2021 09:59:17, 47930.89000000, SELL Trail Stop Loss
+75, Entry Long, Buy, 16/09/2021 10:01:04, 47942.48, Exit Long, Buy, 16/09/2021 10:01:10, 47941.61000000, BUY Trail Stop Loss
+123, Entry Short, Sell, 16/09/2021 10:06:09, 47971.24, Exit Short, Sell, 16/09/2021 10:06:19, 47953.35000000, SELL Trail Stop Loss
+150, Entry Long, Buy, 16/09/2021 10:09:02, 47955.17, Exit Long, Buy, 16/09/2021 10:09:09, 47977.19000000, BUY Percent Trail
+171, Entry Short, Sell, 16/09/2021 10:11:08, 47920.93, Exit Short, Sell, 16/09/2021 10:11:13, 47933.83000000, SELL Percent Trail
+213, Entry Short, Sell, 16/09/2021 10:15:04, 47926.71, Exit Short, Sell, 16/09/2021 10:15:10, 47914.54000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 16/09/2021 10:17:07, 47916.32, Exit Long, Buy, 16/09/2021 10:17:15, 47893.10000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 16/09/2021 11:22:07, 47955.0, Exit Short, Sell, 16/09/2021 11:22:14, 47938.59000000, SELL Trail Stop Loss
+63, Entry Short, Sell, 16/09/2021 11:28:02, 47973.07, Exit Short, Sell, 16/09/2021 11:28:10, 47980.00000000, SELL Percent Trail
+134, Entry Short, Sell, 16/09/2021 11:31:03, 47977.56, Exit Short, Sell, 16/09/2021 11:31:16, 48034.82000000, SELL Percent Trail
+210, Entry Long, Buy, 16/09/2021 11:36:03, 47957.7, Exit Long, Buy, 16/09/2021 11:36:11, 47934.66000000, BUY Trail Stop Loss
+484, Entry Long, Buy, 16/09/2021 11:47:04, 47971.61, Exit Long, Buy, 16/09/2021 11:47:11, 47909.15000000, BUY Trail Stop Loss
+534, Entry Long, Buy, 16/09/2021 11:50:02, 47902.29, Exit Long, Buy, 16/09/2021 11:50:06, 47901.55000000, BUY Trail Stop Loss
+1, Entry Long, Buy, 16/09/2021 12:14:07, 47879.11, Exit Long, Buy, 16/09/2021 12:14:15, 47842.82000000, BUY Trail Stop Loss
+11, Entry Short, Sell, 16/09/2021 12:18:08, 47883.61, Exit Short, Sell, 16/09/2021 12:18:14, 47840.00000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 16/09/2021 12:55:08, 48084.95, Exit Long, Buy, 16/09/2021 12:55:15, 48084.94000000, BUY Stop Loss
+1, Entry Short, Sell, 16/09/2021 12:58:07, 48034.0, Exit Short, Sell, 16/09/2021 12:58:14, 48032.44000000, SELL Strategy Close
+127, Entry Long, Buy, 16/09/2021 13:04:04, 48014.99, Exit Long, Buy, 16/09/2021 13:04:11, 48007.99000000, BUY Trail Stop Loss
+232, Entry Short, Sell, 16/09/2021 13:10:06, 48064.77, Exit Short, Sell, 16/09/2021 13:10:38, 48087.67000000, SELL Percent Trail
+292, Entry Long, Buy, 16/09/2021 13:14:05, 48004.86, Exit Long, Buy, 16/09/2021 13:14:10, 48003.70000000, BUY Stop Loss
+1, Entry Short, Sell, 16/09/2021 13:17:07, 47949.73, Exit Short, Sell, 16/09/2021 13:17:12, 47926.23000000, SELL Trail Stop Loss
+12, Entry Short, Sell, 16/09/2021 13:21:13, 47996.0, Exit Short, Sell, 16/09/2021 13:21:18, 47991.70000000, SELL Strategy Close
+43, Entry Long, Buy, 16/09/2021 13:24:12, 47963.75, Exit Long, Buy, 16/09/2021 13:24:18, 47969.58000000, BUY Stop Loss
+144, Entry Short, Sell, 16/09/2021 13:29:05, 47998.43, Exit Short, Sell, 16/09/2021 13:29:11, 48014.29000000, SELL Percent Trail
+227, Entry Short, Sell, 16/09/2021 13:37:30, 47969.83, Exit Short, Sell, 16/09/2021 13:37:35, 47941.26000000, SELL Trail Stop Loss
+338, Entry Short, Sell, 16/09/2021 13:42:05, 47880.86, Exit Short, Sell, 16/09/2021 13:42:13, 47858.67000000, SELL Trail Stop Loss
+386, Entry Long, Buy, 16/09/2021 13:46:10, 47725.12, Exit Long, Buy, 16/09/2021 13:46:15, 47688.01000000, BUY Trail Stop Loss
+430, Entry Short, Sell, 16/09/2021 13:50:08, 47522.85, Exit Short, Sell, 16/09/2021 13:50:15, 47506.33000000, SELL Trail Stop Loss
+462, Entry Short, Sell, 16/09/2021 13:53:06, 47551.89, Exit Short, Sell, 16/09/2021 13:53:20, 47530.29000000, SELL Trail Stop Loss
+489, Entry Long, Buy, 16/09/2021 13:56:04, 47554.98, Exit Long, Buy, 16/09/2021 13:56:09, 47558.14000000, BUY Stop Loss
+544, Entry Long, Buy, 16/09/2021 13:59:05, 47496.08, Exit Long, Buy, 16/09/2021 13:59:12, 47504.99000000, BUY Trail Stop Loss
+601, Entry Long, Buy, 16/09/2021 14:02:03, 47499.81, Exit Long, Buy, 16/09/2021 14:02:09, 47539.22000000, BUY Percent Trail
+631, Entry Short, Sell, 16/09/2021 14:05:04, 47553.71, Exit Short, Sell, 16/09/2021 14:05:11, 47600.00000000, SELL Percent Trail
+760, Entry Long, Buy, 16/09/2021 14:15:04, 47389.99, Exit Long, Buy, 16/09/2021 14:15:10, 47415.62000000, BUY Percent Trail
+780, Entry Short, Sell, 16/09/2021 14:17:03, 47406.6, Exit Short, Sell, 16/09/2021 14:17:26, 47440.21000000, SELL Percent Trail
+806, Entry Long, Buy, 16/09/2021 14:20:03, 47321.62, Exit Long, Buy, 16/09/2021 14:20:11, 47360.00000000, BUY Stop Loss
+845, Entry Short, Sell, 16/09/2021 14:24:05, 47511.88, Exit Short, Sell, 16/09/2021 14:24:13, 47518.26000000, SELL Trail Stop Loss
+865, Entry Long, Buy, 16/09/2021 14:26:08, 47524.87, Exit Long, Buy, 16/09/2021 14:26:15, 47533.86000000, BUY Stop Loss
+940, Entry Short, Sell, 16/09/2021 14:32:06, 47586.46, Exit Short, Sell, 16/09/2021 14:32:25, 47607.17000000, SELL Percent Trail
+957, Entry Long, Buy, 16/09/2021 14:34:06, 47604.79, Exit Long, Buy, 16/09/2021 14:34:12, 47594.44000000, BUY Trail Stop Loss
+999, Entry Long, Buy, 16/09/2021 14:38:04, 47579.06, Exit Long, Buy, 16/09/2021 14:38:08, 47555.28000000, BUY Trail Stop Loss
+1028, Entry Short, Sell, 16/09/2021 14:40:08, 47580.0, Exit Short, Sell, 16/09/2021 14:40:13, 47581.00000000, SELL Percent Trail
+1100, Entry Short, Sell, 16/09/2021 14:45:06, 47634.9, Exit Short, Sell, 16/09/2021 14:45:14, 47619.36000000, SELL Trail Stop Loss
+1164, Entry Long, Buy, 16/09/2021 14:49:08, 47618.19, Exit Long, Buy, 16/09/2021 14:49:15, 47615.01000000, BUY Trail Stop Loss
+1184, Entry Short, Sell, 16/09/2021 14:51:07, 47618.21, Exit Short, Sell, 16/09/2021 14:51:14, 47614.10000000, SELL Trail Stop Loss
+1204, Entry Long, Buy, 16/09/2021 14:53:11, 47596.37, Exit Long, Buy, 16/09/2021 14:53:16, 47596.22000000, BUY Trail Stop Loss
+1234, Entry Short, Sell, 16/09/2021 14:55:10, 47590.84, Exit Short, Sell, 16/09/2021 14:55:27, 47584.20000000, SELL Trail Stop Loss
+1252, Entry Long, Buy, 16/09/2021 14:57:08, 47584.81, Exit Long, Buy, 16/09/2021 14:57:15, 47565.51000000, BUY Trail Stop Loss
+1280, Entry Short, Sell, 16/09/2021 15:00:09, 47569.08, Exit Short, Sell, 16/09/2021 15:00:15, 47550.96000000, SELL Trail Stop Loss
+1338, Entry Long, Buy, 16/09/2021 15:06:07, 47498.34, Exit Long, Buy, 16/09/2021 15:06:13, 47485.92000000, BUY Trail Stop Loss
+1399, Entry Short, Sell, 16/09/2021 15:10:05, 47578.93, Exit Short, Sell, 16/09/2021 15:10:11, 47686.21000000, SELL Percent Trail
+1499, Entry Long, Buy, 16/09/2021 15:17:06, 47668.5, Exit Long, Buy, 16/09/2021 15:17:11, 47682.98000000, BUY Percent Trail
+1518, Entry Short, Sell, 16/09/2021 15:19:03, 47676.97, Exit Short, Sell, 16/09/2021 15:19:07, 47662.28000000, SELL Trail Stop Loss
+1538, Entry Long, Buy, 16/09/2021 15:21:06, 47693.59, Exit Long, Buy, 16/09/2021 15:21:12, 47684.80000000, BUY Stop Loss
+1559, Entry Short, Sell, 16/09/2021 15:23:10, 47714.56, Exit Short, Sell, 16/09/2021 15:23:22, 47708.08000000, SELL Trail Stop Loss
+1670, Entry Short, Sell, 16/09/2021 15:30:10, 48083.76, Exit Short, Sell, 16/09/2021 15:30:16, 48146.91000000, SELL Percent Trail
+1704, Entry Short, Sell, 16/09/2021 15:33:04, 48126.95, Exit Short, Sell, 16/09/2021 15:33:10, 48082.01000000, SELL Trail Stop Loss
+1743, Entry Long, Buy, 16/09/2021 15:37:07, 48025.21, Exit Long, Buy, 16/09/2021 15:37:14, 48020.49000000, BUY Trail Stop Loss
+1776, Entry Long, Buy, 16/09/2021 15:40:07, 47947.25, Exit Long, Buy, 16/09/2021 15:40:12, 47960.33000000, BUY Stop Loss
+1858, Entry Short, Sell, 16/09/2021 15:44:10, 47863.39, Exit Short, Sell, 16/09/2021 15:44:17, 47887.03000000, SELL Percent Trail
+1923, Entry Short, Sell, 16/09/2021 15:49:03, 47951.19, Exit Short, Sell, 16/09/2021 15:49:39, 47969.67000000, SELL Percent Trail
+2024, Entry Short, Sell, 16/09/2021 15:56:05, 48000.0, Exit Short, Sell, 16/09/2021 15:56:11, 47991.69000000, SELL Trail Stop Loss
+2054, Entry Long, Buy, 16/09/2021 15:58:05, 48007.79, Exit Long, Buy, 16/09/2021 15:58:10, 47999.87000000, BUY Trail Stop Loss
+2126, Entry Short, Sell, 16/09/2021 16:03:08, 48081.81, Exit Short, Sell, 16/09/2021 16:03:15, 48128.18000000, SELL Percent Trail
+2336, Entry Long, Buy, 16/09/2021 16:14:05, 48127.85, Exit Long, Buy, 16/09/2021 16:14:10, 48075.95000000, BUY Trail Stop Loss
+2424, Entry Long, Buy, 16/09/2021 16:21:04, 48048.24, Exit Long, Buy, 16/09/2021 16:21:11, 48056.53000000, BUY Stop Loss
+2501, Entry Short, Sell, 16/09/2021 16:25:03, 48033.13, Exit Short, Sell, 16/09/2021 16:25:11, 48030.70000000, SELL Trail Stop Loss
+2553, Entry Long, Buy, 16/09/2021 16:29:13, 47960.36, Exit Long, Buy, 16/09/2021 16:29:20, 47965.67000000, BUY Percent Trail
+2662, Entry Short, Sell, 16/09/2021 16:35:05, 48036.53, Exit Short, Sell, 16/09/2021 16:35:18, 48045.31000000, SELL Percent Trail
+2733, Entry Long, Buy, 16/09/2021 16:41:03, 48041.3, Exit Long, Buy, 16/09/2021 16:41:10, 48036.05000000, BUY Trail Stop Loss
+2787, Entry Long, Buy, 16/09/2021 16:46:12, 48076.32, Exit Long, Buy, 16/09/2021 16:46:18, 48079.99000000, BUY Trail Stop Loss
+2805, Entry Short, Sell, 16/09/2021 16:48:03, 48016.04, Exit Short, Sell, 16/09/2021 16:48:08, 47997.12000000, SELL Strategy Close
+2837, Entry Long, Buy, 16/09/2021 16:51:10, 47975.35, Exit Long, Buy, 16/09/2021 16:51:15, 47972.98000000, BUY Trail Stop Loss
+2856, Entry Short, Sell, 16/09/2021 16:53:03, 47949.51, Exit Short, Sell, 16/09/2021 16:53:08, 47939.44000000, SELL Trail Stop Loss
+2988, Entry Short, Sell, 16/09/2021 17:00:06, 47950.71, Exit Short, Sell, 16/09/2021 17:00:11, 47947.17000000, SELL Trail Stop Loss
+3243, Entry Short, Sell, 16/09/2021 17:11:03, 48001.01, Exit Short, Sell, 16/09/2021 17:11:12, 47974.99000000, SELL Trail Stop Loss
+3264, Entry Long, Buy, 16/09/2021 17:13:11, 47980.57, Exit Long, Buy, 16/09/2021 17:13:19, 47980.61000000, BUY Stop Loss
+3295, Entry Short, Sell, 16/09/2021 17:15:06, 47969.21, Exit Short, Sell, 16/09/2021 17:15:11, 47969.34000000, SELL Trail Stop Loss
+3377, Entry Long, Buy, 16/09/2021 17:19:12, 47962.44, Exit Long, Buy, 16/09/2021 17:19:19, 47956.96000000, BUY Trail Stop Loss
+3395, Entry Short, Sell, 16/09/2021 17:21:07, 47952.04, Exit Short, Sell, 16/09/2021 17:21:15, 47942.12000000, SELL Trail Stop Loss
+3491, Entry Long, Buy, 16/09/2021 17:31:04, 47886.99, Exit Long, Buy, 16/09/2021 17:31:10, 47901.21000000, BUY Trail Stop Loss
+3510, Entry Short, Sell, 16/09/2021 17:33:06, 47816.81, Exit Short, Sell, 16/09/2021 17:33:11, 47831.08000000, SELL Percent Trail
+3554, Entry Long, Buy, 16/09/2021 17:37:06, 47693.47, Exit Long, Buy, 16/09/2021 17:37:11, 47732.99000000, BUY Percent Trail
+1, Entry Short, Sell, 16/09/2021 17:38:07, 47718.71, Exit Short, Sell, 16/09/2021 17:38:13, 47702.29000000, SELL Trail Stop Loss
+22, Entry Long, Buy, 16/09/2021 17:40:06, 47700.11, Exit Long, Buy, 16/09/2021 17:40:12, 47719.95000000, BUY Percent Trail
+43, Entry Short, Sell, 16/09/2021 17:42:04, 47626.37, Exit Short, Sell, 16/09/2021 17:42:10, 47593.60000000, SELL Trail Stop Loss
+72, Entry Long, Buy, 16/09/2021 17:44:11, 47629.27, Exit Long, Buy, 16/09/2021 17:44:17, 47630.04000000, BUY Trail Stop Loss
+210, Entry Short, Sell, 16/09/2021 17:50:06, 47572.22, Exit Short, Sell, 16/09/2021 17:50:12, 47578.86000000, SELL Trail Stop Loss
+240, Entry Short, Sell, 16/09/2021 17:53:15, 47612.99, Exit Short, Sell, 16/09/2021 17:53:22, 47624.10000000, SELL Percent Trail
+363, Entry Long, Buy, 16/09/2021 18:00:06, 47397.61, Exit Long, Buy, 16/09/2021 18:00:12, 47367.80000000, BUY Trail Stop Loss
+384, Entry Short, Sell, 16/09/2021 18:02:08, 47408.01, Exit Short, Sell, 16/09/2021 18:02:25, 47445.62000000, SELL Percent Trail
+440, Entry Short, Sell, 16/09/2021 18:06:06, 47528.94, Exit Short, Sell, 16/09/2021 18:06:26, 47521.95000000, SELL Trail Stop Loss
+465, Entry Long, Buy, 16/09/2021 18:09:02, 47510.74, Exit Long, Buy, 16/09/2021 18:09:08, 47513.75000000, BUY Stop Loss
+513, Entry Long, Buy, 16/09/2021 18:12:02, 47901.0, Exit Long, Buy, 16/09/2021 18:12:09, 47499.04000000, BUY Trail Stop Loss
+609, Entry Long, Buy, 16/09/2021 18:17:05, 47452.38, Exit Long, Buy, 16/09/2021 18:17:11, 47410.08000000, BUY Trail Stop Loss
+660, Entry Long, Buy, 16/09/2021 18:22:04, 47379.15, Exit Long, Buy, 16/09/2021 18:22:13, 47355.01000000, BUY Trail Stop Loss
+717, Entry Short, Sell, 16/09/2021 18:26:04, 47530.01, Exit Short, Sell, 16/09/2021 18:26:12, 47527.67000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 17/09/2021 10:10:07, 47772.99, Exit Long, Buy, 17/09/2021 10:10:13, 47769.32000000, BUY Trail Stop Loss
+147, Entry Long, Buy, 17/09/2021 10:16:04, 47694.35, Exit Long, Buy, 17/09/2021 10:16:12, 47698.02000000, BUY Stop Loss
+201, Entry Short, Sell, 17/09/2021 10:19:02, 45000.0, Exit Short, Sell, 17/09/2021 10:19:07, 47688.64000000, SELL Percent Trail
+375, Entry Short, Sell, 17/09/2021 10:26:11, 47547.89, Exit Short, Sell, 17/09/2021 10:26:17, 47554.61000000, SELL Trail Stop Loss
+436, Entry Short, Sell, 17/09/2021 10:30:08, 47565.71, Exit Short, Sell, 17/09/2021 10:30:13, 47566.44000000, SELL Trail Stop Loss
+480, Entry Short, Sell, 17/09/2021 10:33:04, 47585.78, Exit Short, Sell, 17/09/2021 10:33:11, 47562.11000000, SELL Trail Stop Loss
+525, Entry Long, Buy, 17/09/2021 10:37:05, 47500.06, Exit Long, Buy, 17/09/2021 10:37:12, 47534.51000000, BUY Percent Trail
+545, Entry Short, Sell, 17/09/2021 10:39:08, 47485.25, Exit Short, Sell, 17/09/2021 10:39:13, 47473.14000000, SELL Trail Stop Loss
+574, Entry Long, Buy, 17/09/2021 10:42:08, 47456.89, Exit Long, Buy, 17/09/2021 10:42:13, 47473.17000000, BUY Percent Trail
+594, Entry Short, Sell, 17/09/2021 10:44:09, 47430.58, Exit Short, Sell, 17/09/2021 10:44:14, 47439.53000000, SELL Strategy Close
+719, Entry Long, Buy, 17/09/2021 10:50:04, 47424.38, Exit Long, Buy, 17/09/2021 10:50:10, 47371.30000000, BUY Trail Stop Loss
+740, Entry Short, Sell, 17/09/2021 10:52:06, 47390.61, Exit Short, Sell, 17/09/2021 10:52:17, 47421.45000000, SELL Percent Trail
+835, Entry Short, Sell, 17/09/2021 10:58:07, 47439.11, Exit Short, Sell, 17/09/2021 10:58:14, 47445.00000000, SELL Trail Stop Loss
+876, Entry Short, Sell, 17/09/2021 11:02:07, 47415.57, Exit Short, Sell, 17/09/2021 11:02:13, 47403.12000000, SELL Trail Stop Loss
+896, Entry Long, Buy, 17/09/2021 11:04:05, 47397.79, Exit Long, Buy, 17/09/2021 11:04:10, 47398.81000000, BUY Stop Loss
+925, Entry Short, Sell, 17/09/2021 11:07:02, 47465.43, Exit Short, Sell, 17/09/2021 11:07:08, 47440.20000000, SELL Trail Stop Loss
+1039, Entry Short, Sell, 17/09/2021 11:12:06, 47524.12, Exit Short, Sell, 17/09/2021 11:12:12, 47545.87000000, SELL Percent Trail
+1099, Entry Short, Sell, 17/09/2021 11:15:05, 47530.93, Exit Short, Sell, 17/09/2021 11:15:17, 47549.99000000, SELL Percent Trail
+1, Entry Short, Sell, 17/09/2021 11:19:07, 47567.11, Exit Short, Sell, 17/09/2021 11:19:13, 47569.27000000, SELL Strategy Close
+72, Entry Short, Sell, 17/09/2021 11:22:04, 47584.02, Exit Short, Sell, 17/09/2021 11:22:10, 47593.17000000, SELL Percent Trail
+280, Entry Long, Buy, 17/09/2021 11:30:03, 47630.22, Exit Long, Buy, 17/09/2021 11:30:11, 47642.82000000, BUY Percent Trail
+413, Entry Long, Buy, 17/09/2021 11:37:10, 47513.79, Exit Long, Buy, 17/09/2021 11:37:16, 47500.00000000, BUY Trail Stop Loss
+445, Entry Long, Buy, 17/09/2021 11:40:07, 47466.77, Exit Long, Buy, 17/09/2021 11:40:14, 47472.13000000, BUY Stop Loss
+464, Entry Short, Sell, 17/09/2021 11:42:05, 47453.62, Exit Short, Sell, 17/09/2021 11:42:11, 47453.90000000, SELL Trail Stop Loss
+535, Entry Short, Sell, 17/09/2021 11:46:07, 47373.37, Exit Short, Sell, 17/09/2021 11:46:12, 47338.04000000, SELL Trail Stop Loss
+564, Entry Long, Buy, 17/09/2021 11:49:02, 47351.99, Exit Long, Buy, 17/09/2021 11:49:07, 47333.26000000, BUY Percent Trail
+593, Entry Short, Sell, 17/09/2021 11:52:06, 47360.21, Exit Short, Sell, 17/09/2021 11:52:19, 47344.99000000, SELL Trail Stop Loss
+647, Entry Short, Sell, 17/09/2021 11:55:02, 47370.51, Exit Short, Sell, 17/09/2021 11:55:06, 47347.94000000, SELL Trail Stop Loss
+768, Entry Short, Sell, 17/09/2021 12:00:09, 47382.87, Exit Short, Sell, 17/09/2021 12:00:14, 47353.81000000, SELL Trail Stop Loss
+792, Entry Long, Buy, 17/09/2021 12:02:12, 47352.1, Exit Long, Buy, 17/09/2021 12:02:20, 47366.46000000, BUY Stop Loss
+911, Entry Long, Buy, 17/09/2021 12:08:03, 47295.62, Exit Long, Buy, 17/09/2021 12:08:09, 47273.79000000, BUY Trail Stop Loss
+982, Entry Short, Sell, 17/09/2021 12:12:05, 47303.68, Exit Short, Sell, 17/09/2021 12:12:10, 47275.99000000, SELL Trail Stop Loss
+1002, Entry Long, Buy, 17/09/2021 12:14:05, 47343.48, Exit Long, Buy, 17/09/2021 12:14:11, 47329.19000000, BUY Trail Stop Loss
+1025, Entry Short, Sell, 17/09/2021 12:16:06, 47306.61, Exit Short, Sell, 17/09/2021 12:16:18, 47348.88000000, SELL Percent Trail
+1080, Entry Short, Sell, 17/09/2021 12:20:11, 47438.38, Exit Short, Sell, 17/09/2021 12:20:17, 47452.18000000, SELL Percent Trail
+1230, Entry Short, Sell, 17/09/2021 12:30:07, 47480.0, Exit Short, Sell, 17/09/2021 12:30:14, 47461.55000000, SELL Trail Stop Loss
+1313, Entry Long, Buy, 17/09/2021 12:34:13, 47468.14, Exit Long, Buy, 17/09/2021 12:34:21, 47477.34000000, BUY Stop Loss
+1331, Entry Short, Sell, 17/09/2021 12:36:06, 47422.08, Exit Short, Sell, 17/09/2021 12:36:11, 47426.50000000, SELL Strategy Close
+1413, Entry Long, Buy, 17/09/2021 12:41:13, 47398.92, Exit Long, Buy, 17/09/2021 12:41:20, 47381.50000000, BUY Trail Stop Loss
+1485, Entry Short, Sell, 17/09/2021 12:45:08, 47462.3, Exit Short, Sell, 17/09/2021 12:45:16, 47439.67000000, SELL Trail Stop Loss
+1533, Entry Long, Buy, 17/09/2021 12:50:07, 47400.8, Exit Long, Buy, 17/09/2021 12:50:13, 47394.93000000, BUY Trail Stop Loss
+1599, Entry Short, Sell, 17/09/2021 12:54:03, 47365.0, Exit Short, Sell, 17/09/2021 12:54:10, 47360.99000000, SELL Trail Stop Loss
+1686, Entry Short, Sell, 17/09/2021 13:01:09, 47425.6, Exit Short, Sell, 17/09/2021 13:01:15, 47419.16000000, SELL Trail Stop Loss
+1723, Entry Long, Buy, 17/09/2021 13:05:03, 47415.45, Exit Long, Buy, 17/09/2021 13:05:10, 47402.67000000, BUY Trail Stop Loss
+1757, Entry Long, Buy, 17/09/2021 13:08:14, 47346.39, Exit Long, Buy, 17/09/2021 13:08:22, 47344.05000000, BUY Stop Loss
+1790, Entry Short, Sell, 17/09/2021 13:11:11, 47333.22, Exit Short, Sell, 17/09/2021 13:11:30, 47333.22000000, SELL Trail Stop Loss
+1837, Entry Short, Sell, 17/09/2021 13:14:05, 47351.99, Exit Short, Sell, 17/09/2021 13:14:18, 47379.99000000, SELL Percent Trail
+2, Entry Short, Sell, 09/17/2021 13:34:12, 47384.92, Exit Short, Sell, 09/17/2021 13:34:18, 47342.97000000, SELL Trail Stop Loss
+91, Entry Long, Buy, 09/17/2021 13:40:03, 47314.87, Exit Long, Buy, 09/17/2021 13:40:09, 47299.99000000, BUY Trail Stop Loss
+233, Entry Short, Sell, 09/17/2021 13:46:05, 47278.5, Exit Short, Sell, 09/17/2021 13:46:11, 47299.82000000, SELL Percent Trail
+285, Entry Short, Sell, 09/17/2021 13:51:06, 44531.47, Exit Short, Sell, 09/17/2021 13:51:14, 47357.26000000, SELL Percent Trail
+318, Entry Short, Sell, 09/17/2021 13:54:07, 47316.03, Exit Short, Sell, 09/17/2021 13:54:13, 47319.30000000, SELL Trail Stop Loss
+391, Entry Long, Buy, 09/17/2021 13:58:02, 47261.94, Exit Long, Buy, 09/17/2021 13:58:10, 47240.33000000, BUY Trail Stop Loss
+413, Entry Short, Sell, 09/17/2021 14:00:13, 47246.92, Exit Short, Sell, 09/17/2021 14:00:19, 47220.00000000, SELL Trail Stop Loss
+530, Entry Short, Sell, 09/17/2021 14:09:14, 47329.9, Exit Short, Sell, 09/17/2021 14:09:20, 47328.76000000, SELL Trail Stop Loss
+585, Entry Short, Sell, 09/17/2021 14:12:10, 47423.36, Exit Short, Sell, 09/17/2021 14:12:15, 47424.98000000, SELL Trail Stop Loss
+637, Entry Short, Sell, 09/17/2021 14:16:03, 47431.5, Exit Short, Sell, 09/17/2021 14:16:08, 47440.23000000, SELL Percent Trail
+713, Entry Short, Sell, 09/17/2021 14:22:05, 47517.63, Exit Short, Sell, 09/17/2021 14:22:12, 47514.67000000, SELL Trail Stop Loss
+734, Entry Long, Buy, 09/17/2021 14:24:11, 47508.16, Exit Long, Buy, 09/17/2021 14:24:17, 47502.10000000, BUY Trail Stop Loss
+760, Entry Short, Sell, 09/17/2021 14:26:12, 47491.98, Exit Short, Sell, 09/17/2021 14:26:19, 47473.38000000, SELL Trail Stop Loss
+779, Entry Long, Buy, 09/17/2021 14:28:09, 47444.13, Exit Long, Buy, 09/17/2021 14:28:17, 47444.00000000, BUY Trail Stop Loss
+863, Entry Short, Sell, 09/17/2021 14:32:13, 47443.07, Exit Short, Sell, 09/17/2021 14:32:20, 47441.85000000, SELL Strategy Close
+934, Entry Long, Buy, 09/17/2021 14:39:07, 47378.05, Exit Long, Buy, 09/17/2021 14:39:13, 47376.12000000, BUY Trail Stop Loss
+968, Entry Short, Sell, 09/17/2021 14:41:09, 47385.0, Exit Short, Sell, 09/17/2021 14:41:16, 47387.27000000, SELL Trail Stop Loss
+1006, Entry Long, Buy, 09/17/2021 14:45:03, 47361.95, Exit Long, Buy, 09/17/2021 14:45:09, 47372.39000000, BUY Percent Trail
+1027, Entry Short, Sell, 09/17/2021 14:47:10, 47375.94, Exit Short, Sell, 09/17/2021 14:47:24, 47368.08000000, SELL Trail Stop Loss
+1057, Entry Short, Sell, 09/17/2021 14:50:06, 47345.79, Exit Short, Sell, 09/17/2021 14:50:11, 47349.92000000, SELL Trail Stop Loss
+1089, Entry Long, Buy, 09/17/2021 14:52:08, 47350.0, Exit Long, Buy, 09/17/2021 14:52:13, 47360.53000000, BUY Percent Trail
+1168, Entry Short, Sell, 09/17/2021 15:00:08, 47501.59, Exit Short, Sell, 09/17/2021 15:00:15, 47515.39000000, SELL Strategy Close
+1233, Entry Long, Buy, 09/17/2021 15:06:07, 47458.01, Exit Long, Buy, 09/17/2021 15:06:13, 47462.70000000, BUY Stop Loss
+1252, Entry Short, Sell, 09/17/2021 15:08:04, 47455.67, Exit Short, Sell, 09/17/2021 15:08:09, 47454.99000000, SELL Trail Stop Loss
+1333, Entry Long, Buy, 09/17/2021 15:12:04, 47519.1, Exit Long, Buy, 09/17/2021 15:12:11, 47519.78000000, BUY Stop Loss
+1353, Entry Short, Sell, 09/17/2021 15:14:09, 47513.76, Exit Short, Sell, 09/17/2021 15:14:17, 47521.36000000, SELL Percent Trail
+1415, Entry Short, Sell, 09/17/2021 15:18:14, 47475.89, Exit Short, Sell, 09/17/2021 15:18:21, 47524.35000000, SELL Trail Stop Loss
+1571, Entry Short, Sell, 09/17/2021 15:25:08, 47558.54, Exit Short, Sell, 09/17/2021 15:25:18, 47580.00000000, SELL Percent Trail
+1635, Entry Long, Buy, 09/17/2021 15:31:11, 47518.35, Exit Long, Buy, 09/17/2021 15:31:18, 47503.81000000, BUY Trail Stop Loss
+1715, Entry Short, Sell, 09/17/2021 15:36:08, 47499.99, Exit Short, Sell, 09/17/2021 15:36:12, 47495.79000000, SELL Trail Stop Loss
+1739, Entry Long, Buy, 09/17/2021 15:38:12, 47493.38, Exit Long, Buy, 09/17/2021 15:38:19, 47496.43000000, BUY Stop Loss
+1843, Entry Short, Sell, 09/17/2021 15:45:06, 47583.2, Exit Short, Sell, 09/17/2021 15:45:15, 47647.33000000, SELL Percent Trail
+1907, Entry Long, Buy, 09/17/2021 15:51:04, 47519.93, Exit Long, Buy, 09/17/2021 15:51:11, 47523.88000000, BUY Stop Loss
+1927, Entry Short, Sell, 09/17/2021 15:53:05, 47505.4, Exit Short, Sell, 09/17/2021 15:53:13, 47503.90000000, SELL Trail Stop Loss
+1958, Entry Long, Buy, 09/17/2021 15:56:09, 47496.61, Exit Long, Buy, 09/17/2021 15:56:15, 47486.84000000, BUY Trail Stop Loss
+1982, Entry Short, Sell, 09/17/2021 15:58:10, 47499.84, Exit Short, Sell, 09/17/2021 15:58:16, 47495.72000000, SELL Trail Stop Loss
+2014, Entry Short, Sell, 09/17/2021 16:01:08, 47492.76, Exit Short, Sell, 09/17/2021 16:01:15, 47491.98000000, SELL Trail Stop Loss
+2053, Entry Long, Buy, 09/17/2021 16:05:05, 47407.18, Exit Long, Buy, 09/17/2021 16:05:13, 47371.52000000, BUY Trail Stop Loss
+2085, Entry Long, Buy, 09/17/2021 16:08:10, 47415.58, Exit Long, Buy, 09/17/2021 16:08:16, 47403.86000000, BUY Trail Stop Loss
+2143, Entry Long, Buy, 09/17/2021 16:12:09, 47413.01, Exit Long, Buy, 09/17/2021 16:12:16, 47413.07000000, BUY Stop Loss
+2210, Entry Short, Sell, 09/17/2021 16:19:05, 47501.51, Exit Short, Sell, 09/17/2021 16:19:19, 47529.05000000, SELL Percent Trail
+2305, Entry Short, Sell, 09/17/2021 16:26:08, 47630.0, Exit Short, Sell, 09/17/2021 16:26:15, 47632.39000000, SELL Trail Stop Loss
+2479, Entry Short, Sell, 09/17/2021 16:35:03, 47653.09, Exit Short, Sell, 09/17/2021 16:35:22, 47673.02000000, SELL Percent Trail
+2511, Entry Short, Sell, 09/17/2021 16:38:09, 47661.75, Exit Short, Sell, 09/17/2021 16:38:14, 47701.65000000, SELL Percent Trail
+2595, Entry Long, Buy, 09/17/2021 16:42:05, 47638.5, Exit Long, Buy, 09/17/2021 16:42:11, 47646.00000000, BUY Stop Loss
+2616, Entry Short, Sell, 09/17/2021 16:44:13, 47624.88, Exit Short, Sell, 09/17/2021 16:44:41, 47636.47000000, SELL Percent Trail
+2662, Entry Short, Sell, 09/17/2021 16:49:08, 47603.81, Exit Short, Sell, 09/17/2021 16:50:03, 47619.99000000, SELL Strategy Close
+2690, Entry Short, Sell, 09/17/2021 16:53:06, 47610.0, Exit Short, Sell, 09/17/2021 16:53:12, 47636.47000000, SELL Percent Trail
+2724, Entry Short, Sell, 09/17/2021 16:56:15, 47636.71, Exit Short, Sell, 09/17/2021 16:56:20, 47631.38000000, SELL Trail Stop Loss
+2761, Entry Short, Sell, 09/17/2021 16:59:08, 47625.2, Exit Short, Sell, 09/17/2021 16:59:17, 47621.54000000, SELL Trail Stop Loss
+2788, Entry Long, Buy, 09/17/2021 17:01:09, 47655.1, Exit Long, Buy, 09/17/2021 17:01:15, 47662.00000000, BUY Stop Loss
+2901, Entry Long, Buy, 09/17/2021 17:13:04, 47607.0, Exit Long, Buy, 09/17/2021 17:13:10, 47603.27000000, BUY Stop Loss
+2961, Entry Long, Buy, 09/17/2021 17:17:14, 47541.26, Exit Long, Buy, 09/17/2021 17:17:20, 47519.75000000, BUY Trail Stop Loss
+3068, Entry Long, Buy, 09/17/2021 17:22:08, 47530.08, Exit Long, Buy, 09/17/2021 17:22:15, 47532.81000000, BUY Stop Loss
+3118, Entry Long, Buy, 09/17/2021 17:25:07, 47506.99, Exit Long, Buy, 09/17/2021 17:25:14, 47507.46000000, BUY Stop Loss
+3138, Entry Short, Sell, 09/17/2021 17:27:06, 47529.58, Exit Short, Sell, 09/17/2021 17:27:12, 47526.73000000, SELL Trail Stop Loss
+3158, Entry Long, Buy, 09/17/2021 17:29:08, 47535.12, Exit Long, Buy, 09/17/2021 17:29:15, 47537.63000000, BUY Trail Stop Loss
+3272, Entry Short, Sell, 09/17/2021 17:35:07, 47513.27, Exit Short, Sell, 09/17/2021 17:35:14, 47526.15000000, SELL Percent Trail
+3306, Entry Short, Sell, 09/17/2021 17:38:10, 47541.84, Exit Short, Sell, 09/17/2021 17:38:22, 47534.62000000, SELL Trail Stop Loss
+3324, Entry Long, Buy, 09/17/2021 17:40:03, 47535.33, Exit Long, Buy, 09/17/2021 17:40:08, 47541.39000000, BUY Stop Loss
+3365, Entry Short, Sell, 09/17/2021 17:44:13, 47550.61, Exit Short, Sell, 09/17/2021 17:44:20, 47547.17000000, SELL Trail Stop Loss
+3434, Entry Long, Buy, 09/17/2021 17:51:09, 47384.0, Exit Long, Buy, 09/17/2021 17:51:14, 47361.11000000, BUY Trail Stop Loss
+3509, Entry Long, Buy, 09/17/2021 17:55:04, 47273.09, Exit Long, Buy, 09/17/2021 17:55:10, 47266.93000000, BUY Trail Stop Loss
+3562, Entry Long, Buy, 09/17/2021 17:58:03, 47267.54, Exit Long, Buy, 09/17/2021 17:58:09, 47284.61000000, BUY Percent Trail
+3585, Entry Short, Sell, 09/17/2021 18:00:04, 47242.0, Exit Short, Sell, 09/17/2021 18:00:11, 47231.60000000, SELL Trail Stop Loss
+3714, Entry Long, Buy, 09/17/2021 18:07:07, 47177.36, Exit Long, Buy, 09/17/2021 18:07:13, 47155.00000000, BUY Trail Stop Loss
+3733, Entry Short, Sell, 09/17/2021 18:09:02, 47140.55, Exit Short, Sell, 09/17/2021 18:09:14, 47136.53000000, SELL Trail Stop Loss
+3894, Entry Long, Buy, 09/17/2021 18:18:09, 46856.35, Exit Long, Buy, 09/17/2021 18:18:16, 46841.62000000, BUY Trail Stop Loss
+3964, Entry Short, Sell, 09/17/2021 18:23:04, 46915.98, Exit Short, Sell, 09/17/2021 18:23:13, 46979.98000000, SELL Percent Trail
+3983, Entry Long, Buy, 09/17/2021 18:25:04, 46953.05, Exit Long, Buy, 09/17/2021 18:25:11, 46925.38000000, BUY Trail Stop Loss
+4113, Entry Short, Sell, 09/17/2021 18:31:05, 46900.0, Exit Short, Sell, 09/17/2021 18:31:14, 47005.61000000, SELL Percent Trail
+4292, Entry Long, Buy, 09/17/2021 18:39:04, 46965.19, Exit Long, Buy, 09/17/2021 18:39:10, 46966.42000000, BUY Stop Loss
+4313, Entry Short, Sell, 09/17/2021 18:41:07, 46966.03, Exit Short, Sell, 09/17/2021 18:41:13, 46958.63000000, SELL Trail Stop Loss
+4480, Entry Short, Sell, 09/17/2021 18:48:09, 47020.0, Exit Short, Sell, 09/17/2021 18:48:15, 47018.02000000, SELL Trail Stop Loss
+4562, Entry Short, Sell, 09/17/2021 18:54:03, 47078.09, Exit Short, Sell, 09/17/2021 18:54:16, 47092.58000000, SELL Percent Trail
+4699, Entry Short, Sell, 09/17/2021 19:02:12, 47173.92, Exit Short, Sell, 09/17/2021 19:02:16, 47186.01000000, SELL Percent Trail
+4800, Entry Long, Buy, 09/17/2021 19:09:07, 47111.02, Exit Long, Buy, 09/17/2021 19:09:13, 47105.57000000, BUY Trail Stop Loss
+4948, Entry Short, Sell, 09/17/2021 19:15:06, 47130.04, Exit Short, Sell, 09/17/2021 19:15:12, 47116.13000000, SELL Trail Stop Loss
+5007, Entry Short, Sell, 09/17/2021 19:18:11, 47163.22, Exit Short, Sell, 09/17/2021 19:18:17, 47161.03000000, SELL Trail Stop Loss
+5073, Entry Short, Sell, 09/17/2021 19:21:06, 47169.65, Exit Short, Sell, 09/17/2021 19:21:46, 47184.56000000, SELL Percent Trail
+5120, Entry Short, Sell, 09/17/2021 19:24:04, 47200.0, Exit Short, Sell, 09/17/2021 19:24:17, 47215.98000000, SELL Percent Trail
+5166, Entry Short, Sell, 09/17/2021 19:27:07, 47248.54, Exit Short, Sell, 09/17/2021 19:27:14, 47246.01000000, SELL Trail Stop Loss
+1, Entry Short, Sell, 09/20/2021 14:00:07, 44054.52, Exit Short, Sell, 09/20/2021 14:00:14, 44059.66000000, SELL Strategy Close
+173, Entry Short, Sell, 09/20/2021 14:07:04, 44070.01, Exit Short, Sell, 09/20/2021 14:07:10, 44066.71000000, SELL Trail Stop Loss
+208, Entry Long, Buy, 09/20/2021 14:09:06, 44065.31, Exit Long, Buy, 09/20/2021 14:09:13, 44061.62000000, BUY Stop Loss
+263, Entry Long, Buy, 09/20/2021 14:14:07, 43928.87, Exit Long, Buy, 09/20/2021 14:14:16, 43974.41000000, BUY Percent Trail
+284, Entry Short, Sell, 09/20/2021 14:16:11, 43894.0, Exit Short, Sell, 09/20/2021 14:16:18, 43925.31000000, SELL Percent Trail
+422, Entry Long, Buy, 09/20/2021 14:23:07, 43756.17, Exit Long, Buy, 09/20/2021 14:23:14, 43771.21000000, BUY Stop Loss
+460, Entry Short, Sell, 09/20/2021 14:26:07, 43833.43, Exit Short, Sell, 09/20/2021 14:26:14, 43869.00000000, SELL Percent Trail
+551, Entry Short, Sell, 09/20/2021 14:32:08, 43944.14, Exit Short, Sell, 09/20/2021 14:32:16, 43923.95000000, SELL Trail Stop Loss
+583, Entry Long, Buy, 09/20/2021 14:34:05, 43884.32, Exit Long, Buy, 09/20/2021 14:34:13, 43904.19000000, BUY Percent Trail
+659, Entry Short, Sell, 09/20/2021 14:38:09, 43901.57, Exit Short, Sell, 09/20/2021 14:38:20, 43935.28000000, SELL Percent Trail
+724, Entry Short, Sell, 09/20/2021 14:42:08, 43901.06, Exit Short, Sell, 09/20/2021 14:42:15, 43911.61000000, SELL Percent Trail
+797, Entry Long, Buy, 09/20/2021 14:46:06, 43822.58, Exit Long, Buy, 09/20/2021 14:46:12, 43828.89000000, BUY Stop Loss
+838, Entry Short, Sell, 09/20/2021 14:50:12, 43759.2, Exit Short, Sell, 09/20/2021 14:50:18, 43723.64000000, SELL Trail Stop Loss
+883, Entry Short, Sell, 09/20/2021 14:53:04, 43844.76, Exit Short, Sell, 09/20/2021 14:53:10, 43855.99000000, SELL Percent Trail
+939, Entry Short, Sell, 09/20/2021 14:56:10, 43823.98, Exit Short, Sell, 09/20/2021 14:56:18, 43846.83000000, SELL Percent Trail
+971, Entry Short, Sell, 09/20/2021 14:59:08, 43830.33, Exit Short, Sell, 09/20/2021 14:59:16, 43816.84000000, SELL Trail Stop Loss
+1028, Entry Long, Buy, 09/20/2021 15:05:06, 43597.99, Exit Long, Buy, 09/20/2021 15:05:14, 43617.01000000, BUY Percent Trail
+1048, Entry Short, Sell, 09/20/2021 15:07:08, 43627.45, Exit Short, Sell, 09/20/2021 15:07:15, 43702.33000000, SELL Percent Trail
+1120, Entry Short, Sell, 09/20/2021 15:13:05, 43879.04, Exit Short, Sell, 09/20/2021 15:13:11, 43906.63000000, SELL Percent Trail
+1172, Entry Long, Buy, 09/20/2021 15:20:09, 43954.64, Exit Long, Buy, 09/20/2021 15:20:16, 43969.99000000, BUY Stop Loss
+1233, Entry Long, Buy, 09/20/2021 15:24:09, 43891.36, Exit Long, Buy, 09/20/2021 15:24:15, 43876.42000000, BUY Stop Loss
+1313, Entry Short, Sell, 09/20/2021 15:28:05, 43906.0, Exit Short, Sell, 09/20/2021 15:28:26, 43926.99000000, SELL Percent Trail
+1343, Entry Short, Sell, 09/20/2021 15:31:09, 43958.03, Exit Short, Sell, 09/20/2021 15:31:16, 43956.97000000, SELL Trail Stop Loss
+1444, Entry Long, Buy, 09/20/2021 15:38:08, 43852.0, Exit Long, Buy, 09/20/2021 15:38:14, 43816.69000000, BUY Trail Stop Loss
+1503, Entry Long, Buy, 09/20/2021 15:41:02, 43783.62, Exit Long, Buy, 09/20/2021 15:41:08, 43766.32000000, BUY Stop Loss
+1544, Entry Short, Sell, 09/20/2021 15:45:06, 43761.02, Exit Short, Sell, 09/20/2021 15:45:19, 43760.27000000, SELL Trail Stop Loss
+1583, Entry Short, Sell, 09/20/2021 15:49:16, 43816.91, Exit Short, Sell, 09/20/2021 15:49:54, 43819.03000000, SELL Trail Stop Loss
+1624, Entry Long, Buy, 09/20/2021 15:55:04, 43708.73, Exit Long, Buy, 09/20/2021 15:55:11, 43695.40000000, BUY Trail Stop Loss
+1716, Entry Short, Sell, 09/20/2021 16:00:08, 43851.17, Exit Short, Sell, 09/20/2021 16:00:18, 43820.00000000, SELL Percent Trail
+1764, Entry Long, Buy, 09/20/2021 16:05:08, 43702.92, Exit Long, Buy, 09/20/2021 16:05:15, 43730.18000000, BUY Percent Trail
+1796, Entry Short, Sell, 09/20/2021 16:08:07, 43740.63, Exit Short, Sell, 09/20/2021 16:08:12, 43754.35000000, SELL Trail Stop Loss
+1840, Entry Long, Buy, 09/20/2021 16:12:03, 43344.8, Exit Long, Buy, 09/20/2021 16:12:11, 43751.30000000, BUY Percent Trail
+1890, Entry Short, Sell, 09/20/2021 16:17:08, 43818.05, Exit Short, Sell, 09/20/2021 16:17:14, 43801.29000000, SELL Trail Stop Loss
+1909, Entry Long, Buy, 09/20/2021 16:19:06, 43797.28, Exit Long, Buy, 09/20/2021 16:19:14, 43798.06000000, BUY Stop Loss
+2082, Entry Short, Sell, 09/20/2021 16:29:09, 43999.88, Exit Short, Sell, 09/20/2021 16:29:15, 44017.77000000, SELL Percent Trail
+2114, Entry Short, Sell, 09/20/2021 16:32:08, 44074.18, Exit Short, Sell, 09/20/2021 16:32:14, 44070.01000000, SELL Trail Stop Loss
+2165, Entry Long, Buy, 09/20/2021 16:36:07, 42354.59, Exit Long, Buy, 09/20/2021 16:36:13, 44052.01000000, BUY Percent Trail
+2213, Entry Short, Sell, 09/20/2021 16:41:06, 44040.01, Exit Short, Sell, 09/20/2021 16:41:13, 44027.71000000, SELL Percent Trail
+2258, Entry Long, Buy, 09/20/2021 16:45:04, 43998.4, Exit Long, Buy, 09/20/2021 16:45:10, 43978.01000000, BUY Trail Stop Loss
+2320, Entry Long, Buy, 09/20/2021 16:49:10, 43933.39, Exit Long, Buy, 09/20/2021 16:49:15, 43933.14000000, BUY Stop Loss
+2339, Entry Short, Sell, 09/20/2021 16:51:06, 43877.82, Exit Short, Sell, 09/20/2021 16:51:13, 43879.99000000, SELL Trail Stop Loss
+2368, Entry Long, Buy, 09/20/2021 16:54:05, 43862.15, Exit Long, Buy, 09/20/2021 16:54:14, 43855.19000000, BUY Trail Stop Loss
+2387, Entry Short, Sell, 09/20/2021 16:56:04, 43859.99, Exit Short, Sell, 09/20/2021 16:56:12, 43854.67000000, SELL Trail Stop Loss
+2435, Entry Short, Sell, 09/20/2021 16:59:06, 43853.16, Exit Short, Sell, 09/20/2021 16:59:12, 43861.00000000, SELL Strategy Close
+2455, Entry Long, Buy, 09/20/2021 17:01:08, 43910.35, Exit Long, Buy, 09/20/2021 17:01:15, 43918.21000000, BUY Stop Loss
+2484, Entry Short, Sell, 09/20/2021 17:04:06, 43856.2, Exit Short, Sell, 09/20/2021 17:04:13, 43867.73000000, SELL Trail Stop Loss
+2601, Entry Long, Buy, 09/20/2021 17:10:10, 43769.75, Exit Long, Buy, 09/20/2021 17:10:19, 43765.31000000, BUY Stop Loss
+2657, Entry Short, Sell, 09/20/2021 17:14:08, 43775.94, Exit Short, Sell, 09/20/2021 17:14:14, 43773.73000000, SELL Trail Stop Loss
+2707, Entry Long, Buy, 09/20/2021 17:17:10, 43778.61, Exit Long, Buy, 09/20/2021 17:17:16, 43784.61000000, BUY Stop Loss
+2742, Entry Short, Sell, 09/20/2021 17:19:06, 43821.23, Exit Short, Sell, 09/20/2021 17:19:32, 43836.26000000, SELL Percent Trail
+2826, Entry Short, Sell, 09/20/2021 17:24:04, 43866.43, Exit Short, Sell, 09/20/2021 17:24:09, 43876.04000000, SELL Trail Stop Loss
+2967, Entry Short, Sell, 09/20/2021 17:31:03, 43891.67, Exit Short, Sell, 09/20/2021 17:31:10, 43880.51000000, SELL Trail Stop Loss
+3039, Entry Long, Buy, 09/20/2021 17:35:05, 43875.03, Exit Long, Buy, 09/20/2021 17:35:11, 43889.68000000, BUY Stop Loss
+3087, Entry Short, Sell, 09/20/2021 17:38:04, 43960.01, Exit Short, Sell, 09/20/2021 17:38:45, 43981.47000000, SELL Percent Trail
+3155, Entry Short, Sell, 09/20/2021 17:42:05, 44036.25, Exit Short, Sell, 09/20/2021 17:42:12, 44091.23000000, SELL Percent Trail
+3255, Entry Long, Buy, 09/20/2021 17:46:07, 44077.87, Exit Long, Buy, 09/20/2021 17:46:12, 44068.61000000, BUY Trail Stop Loss
+3370, Entry Short, Sell, 09/20/2021 17:51:03, 44028.07, Exit Short, Sell, 09/20/2021 17:51:09, 44040.24000000, SELL Trail Stop Loss
+3507, Entry Short, Sell, 09/20/2021 17:56:11, 44068.87, Exit Short, Sell, 09/20/2021 17:56:18, 44066.97000000, SELL Trail Stop Loss
+3554, Entry Short, Sell, 09/20/2021 17:59:12, 44049.02, Exit Short, Sell, 09/20/2021 17:59:19, 44049.01000000, SELL Strategy Close
+3611, Entry Short, Sell, 09/20/2021 18:02:03, 43998.2, Exit Short, Sell, 09/20/2021 18:02:11, 44010.68000000, SELL Percent Trail
+3749, Entry Long, Buy, 09/20/2021 18:08:02, 43965.67, Exit Long, Buy, 09/20/2021 18:08:09, 43957.92000000, BUY Trail Stop Loss
+10, Entry Short, Sell, 09/20/2021 20:17:02, 43777.75, Exit Short, Sell, 09/20/2021 20:17:08, 43780.99000000, SELL Trail Stop Loss
+182, Entry Long, Buy, 09/20/2021 20:26:02, 43756.84, Exit Long, Buy, 09/20/2021 20:26:08, 43770.70000000, BUY Stop Loss
+234, Entry Long, Buy, 09/20/2021 20:29:07, 43709.41, Exit Long, Buy, 09/20/2021 20:29:14, 43703.90000000, BUY Trail Stop Loss
+306, Entry Short, Sell, 09/20/2021 20:34:05, 43677.7, Exit Short, Sell, 09/20/2021 20:34:13, 43692.50000000, SELL Percent Trail
+377, Entry Short, Sell, 09/20/2021 20:40:09, 43677.14, Exit Short, Sell, 09/20/2021 20:40:15, 43661.80000000, SELL Trail Stop Loss
+427, Entry Long, Buy, 09/20/2021 20:45:02, 43422.28, Exit Long, Buy, 09/20/2021 20:45:11, 43438.57000000, BUY Stop Loss
+641, Entry Short, Sell, 09/20/2021 20:56:02, 43320.98, Exit Short, Sell, 09/20/2021 20:56:10, 43318.10000000, SELL Trail Stop Loss
+713, Entry Short, Sell, 09/20/2021 21:02:05, 43623.04, Exit Short, Sell, 09/20/2021 21:02:12, 43561.31000000, SELL Trail Stop Loss
+742, Entry Long, Buy, 09/20/2021 21:05:02, 43570.98, Exit Long, Buy, 09/20/2021 21:05:09, 43610.83000000, BUY Stop Loss
+847, Entry Short, Sell, 09/20/2021 21:12:06, 43734.05, Exit Short, Sell, 09/20/2021 21:12:13, 43786.62000000, SELL Percent Trail
+928, Entry Long, Buy, 09/20/2021 21:18:08, 43672.68, Exit Long, Buy, 09/20/2021 21:18:15, 43689.08000000, BUY Percent Trail
+972, Entry Short, Sell, 09/20/2021 21:22:08, 43732.0, Exit Short, Sell, 09/20/2021 21:22:16, 43763.00000000, SELL Percent Trail
+1019, Entry Long, Buy, 09/20/2021 21:26:07, 43758.37, Exit Long, Buy, 09/20/2021 21:26:13, 43730.07000000, BUY Trail Stop Loss
+1115, Entry Long, Buy, 09/20/2021 21:31:01, 43741.08, Exit Long, Buy, 09/20/2021 21:31:09, 43734.67000000, BUY Trail Stop Loss
+1171, Entry Long, Buy, 09/20/2021 21:35:07, 43683.85, Exit Long, Buy, 09/20/2021 21:35:15, 43673.84000000, BUY Trail Stop Loss
+1240, Entry Short, Sell, 09/20/2021 21:39:03, 43698.0, Exit Short, Sell, 09/20/2021 21:39:11, 43694.21000000, SELL Trail Stop Loss
+1267, Entry Long, Buy, 09/20/2021 21:42:02, 43708.13, Exit Long, Buy, 09/20/2021 21:42:09, 43721.50000000, BUY Percent Trail
+1, Entry Short, Sell, 09/20/2021 22:20:06, 43818.64, Exit Short, Sell, 09/20/2021 22:20:14, 43813.67000000, SELL Trail Stop Loss
+11, Entry Short, Sell, 09/20/2021 22:34:06, 43804.44, Exit Short, Sell, 09/20/2021 22:34:10, 43826.27000000, SELL Percent Trail
+102, Entry Short, Sell, 09/20/2021 22:39:06, 43898.54, Exit Short, Sell, 09/20/2021 22:39:12, 43885.39000000, SELL Trail Stop Loss
+135, Entry Long, Buy, 09/20/2021 22:41:02, 43895.63, Exit Long, Buy, 09/20/2021 22:41:09, 43892.54000000, BUY Trail Stop Loss
+294, Entry Long, Buy, 09/20/2021 22:55:05, 43288.0, Exit Long, Buy, 09/20/2021 22:55:13, 43123.21000000, BUY Trail Stop Loss
+313, Entry Short, Sell, 09/20/2021 22:57:12, 43320.11, Exit Short, Sell, 09/20/2021 22:57:18, 43179.57000000, SELL Trail Stop Loss
+330, Entry Short, Sell, 09/20/2021 22:59:03, 43220.23, Exit Short, Sell, 09/20/2021 22:59:11, 43300.37000000, SELL Percent Trail
+412, Entry Short, Sell, 09/20/2021 23:07:08, 43363.44, Exit Short, Sell, 09/20/2021 23:07:14, 43227.90000000, SELL Trail Stop Loss
+440, Entry Short, Sell, 09/20/2021 23:10:03, 43111.6, Exit Short, Sell, 09/20/2021 23:10:09, 43100.01000000, SELL Strategy Close
+487, Entry Long, Buy, 09/20/2021 23:15:01, 43220.37, Exit Long, Buy, 09/20/2021 23:15:08, 43312.74000000, BUY Percent Trail
+621, Entry Long, Buy, 09/20/2021 23:23:03, 42998.04, Exit Long, Buy, 09/20/2021 23:23:11, 42910.95000000, BUY Trail Stop Loss
+670, Entry Long, Buy, 09/20/2021 23:27:06, 42798.19, Exit Long, Buy, 09/20/2021 23:27:13, 42715.40000000, BUY Trail Stop Loss
+720, Entry Long, Buy, 09/20/2021 23:32:06, 42623.57, Exit Long, Buy, 09/20/2021 23:32:12, 42607.67000000, BUY Trail Stop Loss
+812, Entry Short, Sell, 09/20/2021 23:38:06, 42795.01, Exit Short, Sell, 09/20/2021 23:38:12, 42764.72000000, SELL Trail Stop Loss
+854, Entry Long, Buy, 09/20/2021 23:42:03, 42784.79, Exit Long, Buy, 09/20/2021 23:42:10, 42804.00000000, BUY Percent Trail
+910, Entry Long, Buy, 09/20/2021 23:46:06, 42714.92, Exit Long, Buy, 09/20/2021 23:46:13, 42752.30000000, BUY Percent Trail
+928, Entry Short, Sell, 09/20/2021 23:48:02, 42793.41, Exit Short, Sell, 09/20/2021 23:48:11, 42814.02000000, SELL Percent Trail
+947, Entry Long, Buy, 09/20/2021 23:50:02, 42901.77, Exit Long, Buy, 09/20/2021 23:50:09, 42921.48000000, BUY Percent Trail
+985, Entry Short, Sell, 09/20/2021 23:54:06, 42977.65, Exit Short, Sell, 09/20/2021 23:54:30, 42997.00000000, SELL Trail Stop Loss
+1012, Entry Short, Sell, 09/20/2021 23:57:02, 42899.8, Exit Short, Sell, 09/20/2021 23:57:06, 42909.38000000, SELL Strategy Close
+2, Entry Long, Buy, 09/21/2021 10:49:13, 42443.41, Exit Long, Buy, 09/21/2021 10:49:18, 43594.99000000, BUY Percent Trail
+45, Entry Short, Sell, 09/21/2021 10:52:10, 42810.63, Exit Short, Sell, 09/21/2021 10:52:15, 43502.40000000, SELL Percent Trail
+151, Entry Short, Sell, 09/21/2021 10:58:11, 42810.63, Exit Short, Sell, 09/21/2021 10:58:18, 43421.91000000, SELL Percent Trail
+197, Entry Short, Sell, 09/21/2021 11:01:12, 42783.49, Exit Short, Sell, 09/21/2021 11:01:20, 43427.97000000, SELL Percent Trail
+290, Entry Short, Sell, 09/21/2021 11:07:13, 45811.0, Exit Short, Sell, 09/21/2021 11:07:21, 43403.13000000, SELL Trail Stop Loss
+344, Entry Short, Sell, 09/21/2021 11:12:08, 42443.41, Exit Short, Sell, 09/21/2021 11:12:14, 43329.99000000, SELL Percent Trail
+372, Entry Long, Buy, 09/21/2021 11:14:06, 42443.41, Exit Long, Buy, 09/21/2021 11:14:11, 43305.74000000, BUY Percent Trail
+424, Entry Short, Sell, 09/21/2021 11:19:06, 42443.41, Exit Short, Sell, 09/21/2021 11:19:11, 43377.81000000, SELL Percent Trail
+449, Entry Long, Buy, 09/21/2021 11:21:07, 51645.47, Exit Long, Buy, 09/21/2021 11:21:14, 43410.31000000, BUY Trail Stop Loss
+497, Entry Short, Sell, 09/21/2021 11:25:04, 51645.47, Exit Short, Sell, 09/21/2021 11:25:11, 43438.98000000, SELL Trail Stop Loss
+551, Entry Short, Sell, 09/21/2021 11:28:10, 42443.41, Exit Short, Sell, 09/21/2021 11:28:17, 43404.72000000, SELL Percent Trail
+609, Entry Short, Sell, 09/21/2021 11:33:11, 46774.0, Exit Short, Sell, 09/21/2021 11:33:16, 43478.34000000, SELL Trail Stop Loss
+680, Entry Short, Sell, 09/21/2021 11:39:09, 46774.0, Exit Short, Sell, 09/21/2021 11:39:15, 43406.41000000, SELL Trail Stop Loss
+712, Entry Long, Buy, 09/21/2021 11:42:12, 45241.0, Exit Long, Buy, 09/21/2021 11:42:20, 43415.73000000, BUY Trail Stop Loss
+755, Entry Long, Buy, 09/21/2021 11:46:08, 46774.0, Exit Long, Buy, 09/21/2021 11:46:15, 43442.47000000, BUY Trail Stop Loss
+784, Entry Short, Sell, 09/21/2021 11:48:09, 45241.0, Exit Short, Sell, 09/21/2021 11:48:14, 43353.86000000, SELL Trail Stop Loss
+853, Entry Short, Sell, 09/21/2021 11:53:06, 46774.0, Exit Short, Sell, 09/21/2021 11:53:12, 43318.98000000, SELL Trail Stop Loss
+945, Entry Short, Sell, 09/21/2021 12:00:14, 46774.0, Exit Short, Sell, 09/21/2021 12:00:22, 43280.97000000, SELL Trail Stop Loss
+1069, Entry Short, Sell, 09/21/2021 12:12:09, 46774.0, Exit Short, Sell, 09/21/2021 12:12:16, 43468.32000000, SELL Trail Stop Loss
+1120, Entry Short, Sell, 09/21/2021 12:18:54, 45431.0, Exit Short, Sell, 09/21/2021 12:19:00, 43229.46000000, SELL Trail Stop Loss
+1143, Entry Short, Sell, 09/21/2021 12:21:09, 45336.0, Exit Short, Sell, 09/21/2021 12:21:15, 43293.51000000, SELL Trail Stop Loss
+1197, Entry Long, Buy, 09/21/2021 12:27:10, 45241.0, Exit Long, Buy, 09/21/2021 12:27:16, 43260.94000000, BUY Trail Stop Loss
+1262, Entry Long, Buy, 09/21/2021 12:32:10, 45146.0, Exit Long, Buy, 09/21/2021 12:32:16, 43301.15000000, BUY Trail Stop Loss
+1297, Entry Short, Sell, 09/21/2021 12:35:13, 45146.0, Exit Short, Sell, 09/21/2021 12:35:19, 43200.00000000, SELL Trail Stop Loss
+1318, Entry Long, Buy, 09/21/2021 12:37:12, 45000.0, Exit Long, Buy, 09/21/2021 12:37:18, 43150.00000000, BUY Trail Stop Loss
+1360, Entry Short, Sell, 09/21/2021 12:41:10, 45051.0, Exit Short, Sell, 09/21/2021 12:41:16, 43155.23000000, SELL Trail Stop Loss
+1391, Entry Short, Sell, 09/21/2021 12:44:11, 45054.97, Exit Short, Sell, 09/21/2021 12:44:18, 43189.04000000, SELL Trail Stop Loss
+1452, Entry Short, Sell, 09/21/2021 12:49:12, 45146.0, Exit Short, Sell, 09/21/2021 12:49:18, 43321.09000000, SELL Trail Stop Loss
+1472, Entry Short, Sell, 09/21/2021 12:51:09, 45146.0, Exit Short, Sell, 09/21/2021 12:51:14, 43315.45000000, SELL Trail Stop Loss
+1549, Entry Short, Sell, 09/21/2021 12:58:06, 43619.0, Exit Short, Sell, 09/21/2021 12:58:13, 43170.98000000, SELL Trail Stop Loss
+1635, Entry Short, Sell, 09/21/2021 13:03:08, 43711.0, Exit Short, Sell, 09/21/2021 13:03:16, 43148.06000000, SELL Trail Stop Loss
+1733, Entry Long, Buy, 09/21/2021 13:12:12, 43619.0, Exit Long, Buy, 09/21/2021 13:12:20, 43084.24000000, BUY Trail Stop Loss
+1786, Entry Long, Buy, 09/21/2021 13:17:12, 43619.0, Exit Long, Buy, 09/21/2021 13:17:20, 42980.71000000, BUY Trail Stop Loss
+1845, Entry Short, Sell, 09/21/2021 13:21:06, 43571.0, Exit Short, Sell, 09/21/2021 13:21:13, 43025.65000000, SELL Trail Stop Loss
+22, Entry Long, Buy, 09/21/2021 13:31:10, 43571.0, Exit Long, Buy, 09/21/2021 13:31:17, 42949.00000000, BUY Trail Stop Loss
+170, Entry Long, Buy, 09/21/2021 13:41:09, 43571.0, Exit Long, Buy, 09/21/2021 13:41:15, 43198.83000000, BUY Trail Stop Loss
+235, Entry Short, Sell, 09/21/2021 13:45:12, 43571.0, Exit Short, Sell, 09/21/2021 13:45:19, 43220.03000000, SELL Trail Stop Loss
+276, Entry Long, Buy, 09/21/2021 13:49:12, 43571.0, Exit Long, Buy, 09/21/2021 13:49:20, 43288.35000000, BUY Trail Stop Loss
+345, Entry Short, Sell, 09/21/2021 13:55:14, 43619.0, Exit Short, Sell, 09/21/2021 13:55:22, 43152.03000000, SELL Trail Stop Loss
+395, Entry Long, Buy, 09/21/2021 14:00:06, 43636.0, Exit Long, Buy, 09/21/2021 14:00:13, 43148.82000000, BUY Trail Stop Loss
+427, Entry Short, Sell, 09/21/2021 14:02:12, 45144.87, Exit Short, Sell, 09/21/2021 14:02:18, 43055.55000000, SELL Trail Stop Loss
+477, Entry Short, Sell, 09/21/2021 14:05:04, 44872.0, Exit Short, Sell, 09/21/2021 14:05:11, 42907.00000000, SELL Trail Stop Loss
+591, Entry Long, Buy, 09/21/2021 14:15:10, 44684.0, Exit Long, Buy, 09/21/2021 14:15:17, 42625.32000000, BUY Trail Stop Loss
+656, Entry Short, Sell, 09/21/2021 14:21:12, 44684.0, Exit Short, Sell, 09/21/2021 14:21:19, 42801.21000000, SELL Trail Stop Loss
+683, Entry Short, Sell, 09/21/2021 14:23:04, 44684.0, Exit Short, Sell, 09/21/2021 14:23:14, 42695.72000000, SELL Trail Stop Loss
+2, Entry Long, Buy, 09/21/2021 15:15:13, 43593.0, Exit Long, Buy, 09/21/2021 15:15:20, 42602.86000000, BUY Trail Stop Loss
+55, Entry Short, Sell, 09/21/2021 15:18:11, 43593.0, Exit Short, Sell, 09/21/2021 15:18:20, 42614.27000000, SELL Trail Stop Loss
+86, Entry Short, Sell, 09/21/2021 15:20:14, 43593.0, Exit Short, Sell, 09/21/2021 15:20:19, 42596.04000000, SELL Trail Stop Loss
+167, Entry Short, Sell, 09/21/2021 15:27:09, 43593.0, Exit Short, Sell, 09/21/2021 15:27:16, 42658.67000000, SELL Trail Stop Loss
+209, Entry Short, Sell, 09/21/2021 15:30:11, 43501.33, Exit Short, Sell, 09/21/2021 15:30:18, 42664.70000000, SELL Trail Stop Loss
+248, Entry Long, Buy, 09/21/2021 15:33:09, 43593.0, Exit Long, Buy, 09/21/2021 15:33:15, 42636.32000000, BUY Trail Stop Loss
+275, Entry Short, Sell, 09/21/2021 15:35:10, 43593.0, Exit Short, Sell, 09/21/2021 15:35:17, 42992.02000000, SELL Trail Stop Loss
+450, Entry Short, Sell, 09/21/2021 15:51:06, 43957.0, Exit Short, Sell, 09/21/2021 15:51:12, 42996.83000000, SELL Trail Stop Loss
+481, Entry Long, Buy, 09/21/2021 15:53:11, 43515.0, Exit Long, Buy, 09/21/2021 15:53:17, 43050.59000000, BUY Trail Stop Loss
+542, Entry Long, Buy, 09/21/2021 15:58:05, 8865.68, Exit Long, Buy, 09/21/2021 15:58:12, 43032.21000000, BUY Percent Trail
+615, Entry Long, Buy, 09/21/2021 16:02:03, 8948.0, Exit Long, Buy, 09/21/2021 16:02:09, 43105.87000000, BUY Percent Trail
+640, Entry Short, Sell, 09/21/2021 16:04:02, 20000.0, Exit Short, Sell, 09/21/2021 16:04:09, 43144.20000000, SELL Percent Trail
+726, Entry Long, Buy, 09/21/2021 16:08:11, 8949.07, Exit Long, Buy, 09/21/2021 16:08:15, 43152.05000000, BUY Percent Trail
+831, Entry Short, Sell, 09/21/2021 16:18:07, 8960.0, Exit Short, Sell, 09/21/2021 16:18:15, 42826.33000000, SELL Percent Trail
+860, Entry Long, Buy, 09/21/2021 16:20:10, 8941.0, Exit Long, Buy, 09/21/2021 16:20:19, 42830.01000000, BUY Percent Trail
+884, Entry Long, Buy, 09/21/2021 16:22:13, 8896.3, Exit Long, Buy, 09/21/2021 16:22:22, 42941.51000000, BUY Percent Trail
+997, Entry Short, Sell, 09/21/2021 16:32:12, 39995.0, Exit Short, Sell, 09/21/2021 16:32:21, 42863.11000000, SELL Percent Trail
+1018, Entry Short, Sell, 09/21/2021 16:34:13, 9000.0, Exit Short, Sell, 09/21/2021 16:34:20, 42800.35000000, SELL Percent Trail
+1054, Entry Short, Sell, 09/21/2021 16:37:05, 39995.0, Exit Short, Sell, 09/21/2021 16:37:11, 42786.79000000, SELL Percent Trail
+1085, Entry Short, Sell, 09/21/2021 16:39:12, 39995.0, Exit Short, Sell, 09/21/2021 16:39:20, 42812.07000000, SELL Percent Trail
+1127, Entry Long, Buy, 09/21/2021 16:42:05, 8834.32, Exit Long, Buy, 09/21/2021 16:42:11, 42610.28000000, BUY Percent Trail
+1165, Entry Short, Sell, 09/21/2021 16:45:08, 39995.0, Exit Short, Sell, 09/21/2021 16:45:13, 42660.56000000, SELL Percent Trail
+1190, Entry Short, Sell, 09/21/2021 16:47:10, 9000.0, Exit Short, Sell, 09/21/2021 16:47:16, 42700.00000000, SELL Percent Trail
+1270, Entry Short, Sell, 09/21/2021 16:54:08, 39872.0, Exit Short, Sell, 09/21/2021 16:54:14, 42481.39000000, SELL Percent Trail
+1306, Entry Long, Buy, 09/21/2021 16:57:05, 39474.0, Exit Long, Buy, 09/21/2021 16:57:09, 42429.57000000, BUY Percent Trail
+1338, Entry Short, Sell, 09/21/2021 16:59:11, 39522.0, Exit Short, Sell, 09/21/2021 16:59:16, 42459.58000000, SELL Percent Trail
+1443, Entry Short, Sell, 09/21/2021 17:04:05, 39473.3, Exit Short, Sell, 09/21/2021 17:04:12, 42434.69000000, SELL Percent Trail
+1484, Entry Short, Sell, 09/21/2021 17:07:11, 24487.0, Exit Short, Sell, 09/21/2021 17:07:17, 42520.61000000, SELL Percent Trail
+1543, Entry Long, Buy, 09/21/2021 17:12:10, 24526.0, Exit Long, Buy, 09/21/2021 17:12:19, 42398.66000000, BUY Percent Trail
+1584, Entry Long, Buy, 09/21/2021 17:15:09, 24526.0, Exit Long, Buy, 09/21/2021 17:15:18, 42403.75000000, BUY Percent Trail
+1663, Entry Short, Sell, 09/21/2021 17:22:10, 24803.0, Exit Short, Sell, 09/21/2021 17:22:19, 42214.29000000, SELL Percent Trail
+1698, Entry Short, Sell, 09/21/2021 17:25:06, 24807.96, Exit Short, Sell, 09/21/2021 17:25:14, 42020.13000000, SELL Percent Trail
+1775, Entry Long, Buy, 09/21/2021 17:29:09, 8834.32, Exit Long, Buy, 09/21/2021 17:29:14, 42153.71000000, BUY Percent Trail
+1847, Entry Short, Sell, 09/21/2021 17:35:06, 24773.0, Exit Short, Sell, 09/21/2021 17:35:14, 41959.02000000, SELL Percent Trail
+1874, Entry Short, Sell, 09/21/2021 17:37:13, 24785.0, Exit Short, Sell, 09/21/2021 17:37:18, 41907.53000000, SELL Percent Trail
+1932, Entry Short, Sell, 09/21/2021 17:42:13, 25572.0, Exit Short, Sell, 09/21/2021 17:42:21, 41830.78000000, SELL Percent Trail
+1995, Entry Long, Buy, 09/21/2021 17:47:11, 25572.0, Exit Long, Buy, 09/21/2021 17:47:17, 41817.60000000, BUY Percent Trail
+94, Entry Long, Buy, 09/21/2021 18:15:05, 25575.44, Exit Long, Buy, 09/21/2021 18:15:14, 42351.14000000, BUY Percent Trail
+147, Entry Long, Buy, 09/21/2021 18:18:06, 25518.0, Exit Long, Buy, 09/21/2021 18:18:13, 42664.88000000, BUY Percent Trail
+49, Entry Short, Sell, 09/21/2021 18:29:13, 28316.0, Exit Short, Sell, 09/21/2021 18:29:19, 42373.67000000, SELL Percent Trail
+153, Entry Short, Sell, 09/21/2021 18:35:09, 31171.0, Exit Short, Sell, 09/21/2021 18:35:16, 42195.01000000, SELL Percent Trail
+204, Entry Short, Sell, 09/21/2021 18:38:09, 31964.0, Exit Short, Sell, 09/21/2021 18:38:16, 42244.51000000, SELL Percent Trail
+1, Entry Long, Buy, 09/21/2021 19:13:08, 28087.0, Exit Long, Buy, 09/21/2021 19:13:16, 42037.03000000, BUY Percent Trail
+48, Entry Short, Sell, 09/21/2021 19:16:12, 28325.0, Exit Short, Sell, 09/21/2021 19:16:18, 41916.85000000, SELL Percent Trail
+134, Entry Short, Sell, 09/21/2021 19:23:09, 28032.0, Exit Short, Sell, 09/21/2021 19:23:16, 41841.67000000, SELL Percent Trail
+163, Entry Short, Sell, 09/21/2021 19:25:04, 28082.0, Exit Short, Sell, 09/21/2021 19:25:12, 41899.99000000, SELL Percent Trail
+267, Entry Short, Sell, 09/21/2021 19:32:11, 37558.64, Exit Short, Sell, 09/21/2021 19:32:19, 42040.72000000, SELL Percent Trail
+327, Entry Long, Buy, 09/21/2021 19:37:12, 37558.64, Exit Long, Buy, 09/21/2021 19:37:19, 42214.57000000, BUY Percent Trail
+375, Entry Long, Buy, 09/21/2021 19:40:01, 25583.12, Exit Long, Buy, 09/21/2021 19:40:09, 42192.78000000, BUY Percent Trail
+434, Entry Long, Buy, 09/21/2021 19:43:03, 25567.0, Exit Long, Buy, 09/21/2021 19:43:10, 42318.89000000, BUY Percent Trail
+476, Entry Short, Sell, 09/21/2021 19:46:03, 25567.0, Exit Short, Sell, 09/21/2021 19:46:10, 42265.78000000, SELL Percent Trail
+542, Entry Short, Sell, 09/21/2021 19:52:05, 25609.0, Exit Short, Sell, 09/21/2021 19:52:12, 42092.07000000, SELL Percent Trail
+577, Entry Long, Buy, 09/21/2021 19:54:10, 24799.38, Exit Long, Buy, 09/21/2021 19:54:15, 42159.99000000, BUY Percent Trail
+689, Entry Short, Sell, 09/21/2021 20:03:11, 25572.88, Exit Short, Sell, 09/21/2021 20:03:17, 42178.00000000, SELL Percent Trail
+1, Entry Long, Buy, 09/21/2021 20:07:07, 24851.0, Exit Long, Buy, 09/21/2021 20:07:15, 42245.16000000, BUY Percent Trail
+69, Entry Short, Sell, 09/21/2021 20:13:09, 25583.12, Exit Short, Sell, 09/21/2021 20:13:16, 41821.27000000, SELL Percent Trail
+124, Entry Short, Sell, 09/21/2021 20:16:09, 25580.56, Exit Short, Sell, 09/21/2021 20:16:16, 41683.33000000, SELL Percent Trail
+196, Entry Short, Sell, 09/21/2021 20:20:09, 25580.56, Exit Short, Sell, 09/21/2021 20:20:16, 41873.68000000, SELL Percent Trail
+2, Entry Short, Sell, 09/21/2021 20:46:13, 25634.0, Exit Short, Sell, 09/21/2021 20:46:19, 41245.98000000, SELL Percent Trail
+1, Entry Long, Buy, 09/21/2021 20:49:07, 25578.0, Exit Long, Buy, 09/21/2021 20:49:15, 40889.01000000, BUY Percent Trail
+1, Entry Short, Sell, 09/21/2021 20:57:07, 25527.0, Exit Short, Sell, 09/21/2021 20:57:14, 40819.18000000, SELL Percent Trail
+14, Entry Short, Sell, 09/21/2021 21:29:12, 25583.12, Exit Short, Sell, 09/21/2021 21:29:20, 41084.56000000, SELL Percent Trail
+20, Entry Long, Buy, 09/21/2021 23:36:02, 40443.59, Exit Long, Buy, 09/21/2021 23:36:10, 40492.19000000, BUY Stop Loss
+38, Entry Long, Buy, 09/22/2021 07:54:01, 42622.36, Exit Long, Buy, 09/22/2021 07:54:11, 42597.75000000, BUY Trail Stop Loss
+87, Entry Long, Buy, 09/22/2021 07:57:05, 42545.69, Exit Long, Buy, 09/22/2021 07:57:15, 42557.14000000, BUY Percent Trail
+112, Entry Short, Sell, 09/22/2021 07:59:01, 42543.0, Exit Short, Sell, 09/22/2021 07:59:07, 42562.60000000, SELL Percent Trail
+176, Entry Short, Sell, 09/22/2021 08:02:06, 42567.35, Exit Short, Sell, 09/22/2021 08:02:22, 42586.10000000, SELL Trail Stop Loss
+380, Entry Long, Buy, 09/22/2021 08:11:01, 42434.42, Exit Long, Buy, 09/22/2021 08:11:09, 42478.00000000, BUY Percent Trail
+444, Entry Short, Sell, 09/22/2021 08:15:03, 42498.12, Exit Short, Sell, 09/22/2021 08:15:11, 42488.82000000, SELL Trail Stop Loss
+525, Entry Long, Buy, 09/22/2021 08:19:03, 42456.72, Exit Long, Buy, 09/22/2021 08:19:09, 42460.35000000, BUY Stop Loss
+619, Entry Long, Buy, 09/22/2021 08:24:03, 42408.9, Exit Long, Buy, 09/22/2021 08:24:16, 42432.61000000, BUY Percent Trail
+681, Entry Short, Sell, 09/22/2021 08:28:03, 42410.67, Exit Short, Sell, 09/22/2021 08:28:12, 42381.55000000, SELL Trail Stop Loss
+782, Entry Long, Buy, 09/22/2021 08:35:01, 42321.7, Exit Long, Buy, 09/22/2021 08:35:10, 42319.58000000, BUY Trail Stop Loss
+814, Entry Short, Sell, 09/22/2021 08:38:16, 42311.85, Exit Short, Sell, 09/22/2021 08:39:10, 42314.59000000, SELL Trail Stop Loss
+837, Entry Short, Sell, 09/22/2021 08:42:03, 42279.55, Exit Short, Sell, 09/22/2021 08:42:17, 42277.79000000, SELL Trail Stop Loss
+964, Entry Short, Sell, 09/22/2021 08:52:02, 42403.97, Exit Short, Sell, 09/22/2021 08:52:14, 42397.80000000, SELL Trail Stop Loss
+1085, Entry Long, Buy, 09/22/2021 08:59:08, 42260.0, Exit Long, Buy, 09/22/2021 08:59:19, 42282.59000000, BUY Percent Trail
+1103, Entry Short, Sell, 09/22/2021 09:01:04, 42291.23, Exit Short, Sell, 09/22/2021 09:01:18, 42346.84000000, SELL Percent Trail
+1145, Entry Long, Buy, 09/22/2021 09:08:03, 42255.9, Exit Long, Buy, 09/22/2021 09:08:26, 42260.45000000, BUY Percent Trail
+1154, Entry Short, Sell, 09/22/2021 09:10:01, 42261.97, Exit Short, Sell, 09/22/2021 09:10:14, 42227.99000000, SELL Trail Stop Loss
+1193, Entry Long, Buy, 09/22/2021 09:13:02, 42215.57, Exit Long, Buy, 09/22/2021 09:13:11, 42225.98000000, BUY Stop Loss
+1295, Entry Long, Buy, 09/22/2021 09:18:03, 42190.36, Exit Long, Buy, 09/22/2021 09:18:16, 42230.38000000, BUY Percent Trail
+1316, Entry Short, Sell, 09/22/2021 09:20:04, 42193.21, Exit Short, Sell, 09/22/2021 09:20:18, 42244.09000000, SELL Percent Trail
+1349, Entry Short, Sell, 09/22/2021 09:23:06, 42266.8, Exit Short, Sell, 09/22/2021 09:23:22, 42300.00000000, SELL Percent Trail
+1417, Entry Short, Sell, 09/22/2021 09:27:04, 42308.99, Exit Short, Sell, 09/22/2021 09:27:15, 42303.41000000, SELL Trail Stop Loss
+1445, Entry Long, Buy, 09/22/2021 09:29:02, 42318.53, Exit Long, Buy, 09/22/2021 09:29:12, 42309.07000000, BUY Trail Stop Loss
+1534, Entry Long, Buy, 09/22/2021 09:34:02, 42350.38, Exit Long, Buy, 09/22/2021 09:34:12, 42356.12000000, BUY Trail Stop Loss
+1633, Entry Short, Sell, 09/22/2021 09:40:00, 42381.53, Exit Short, Sell, 09/22/2021 09:40:16, 42382.02000000, SELL Percent Trail
+1739, Entry Long, Buy, 09/22/2021 09:46:02, 42271.44, Exit Long, Buy, 09/22/2021 09:46:10, 42254.99000000, BUY Trail Stop Loss
+1773, Entry Short, Sell, 09/22/2021 09:48:01, 42279.89, Exit Short, Sell, 09/22/2021 09:48:19, 42302.99000000, SELL Percent Trail
+1828, Entry Short, Sell, 09/22/2021 09:51:03, 42278.54, Exit Short, Sell, 09/22/2021 09:51:10, 42319.07000000, SELL Percent Trail
+1907, Entry Short, Sell, 09/22/2021 09:56:02, 42348.49, Exit Short, Sell, 09/22/2021 09:56:34, 42338.07000000, SELL Trail Stop Loss
+1977, Entry Long, Buy, 09/22/2021 10:00:03, 42389.82, Exit Long, Buy, 09/22/2021 10:00:11, 42447.16000000, BUY Percent Trail
+2000, Entry Short, Sell, 09/22/2021 10:02:03, 42374.86, Exit Short, Sell, 09/22/2021 10:02:10, 42388.03000000, SELL Percent Trail
+2035, Entry Long, Buy, 09/22/2021 10:04:02, 42371.98, Exit Long, Buy, 09/22/2021 10:04:09, 42379.76000000, BUY Trail Stop Loss
+2128, Entry Short, Sell, 09/22/2021 10:09:00, 42350.04, Exit Short, Sell, 09/22/2021 10:09:35, 42347.24000000, SELL Trail Stop Loss
+2166, Entry Short, Sell, 09/22/2021 10:12:02, 42333.01, Exit Short, Sell, 09/22/2021 10:12:24, 42327.84000000, SELL Trail Stop Loss
+2218, Entry Long, Buy, 09/22/2021 10:16:00, 42328.31, Exit Long, Buy, 09/22/2021 10:16:07, 42317.14000000, BUY Trail Stop Loss
+2288, Entry Short, Sell, 09/22/2021 10:20:01, 42350.85, Exit Short, Sell, 09/22/2021 10:20:23, 42383.54000000, SELL Percent Trail
+2348, Entry Short, Sell, 09/22/2021 10:23:03, 42328.18, Exit Short, Sell, 09/22/2021 10:23:10, 42287.32000000, SELL Trail Stop Loss
+2405, Entry Long, Buy, 09/22/2021 10:27:02, 42247.05, Exit Long, Buy, 09/22/2021 10:27:09, 42201.21000000, BUY Trail Stop Loss
+2573, Entry Short, Sell, 09/22/2021 10:35:03, 42246.74, Exit Short, Sell, 09/22/2021 10:35:11, 42281.44000000, SELL Percent Trail
+2623, Entry Long, Buy, 09/22/2021 10:38:00, 42188.01, Exit Long, Buy, 09/22/2021 10:38:06, 42178.91000000, BUY Trail Stop Loss
+2690, Entry Long, Buy, 09/22/2021 10:41:03, 42158.26, Exit Long, Buy, 09/22/2021 10:41:10, 42156.53000000, BUY Stop Loss
+2781, Entry Long, Buy, 09/22/2021 10:46:02, 42041.64, Exit Long, Buy, 09/22/2021 10:46:09, 42074.80000000, BUY Percent Trail
+2830, Entry Short, Sell, 09/22/2021 10:49:03, 42117.14, Exit Short, Sell, 09/22/2021 10:49:26, 42074.09000000, SELL Trail Stop Loss
+2843, Entry Long, Buy, 09/22/2021 10:51:03, 42022.11, Exit Long, Buy, 09/22/2021 10:51:10, 42018.89000000, BUY Stop Loss
+2878, Entry Short, Sell, 09/22/2021 10:53:01, 42045.97, Exit Short, Sell, 09/22/2021 10:53:07, 42064.59000000, SELL Percent Trail
+2938, Entry Short, Sell, 09/22/2021 10:56:03, 42110.0, Exit Short, Sell, 09/22/2021 10:56:11, 42124.24000000, SELL Trail Stop Loss
+3039, Entry Short, Sell, 09/22/2021 11:04:05, 42122.11, Exit Short, Sell, 09/22/2021 11:04:13, 42109.28000000, SELL Trail Stop Loss
+3056, Entry Long, Buy, 09/22/2021 11:06:04, 42083.89, Exit Long, Buy, 09/22/2021 11:06:13, 42085.54000000, BUY Stop Loss
+3074, Entry Short, Sell, 09/22/2021 11:08:05, 42060.02, Exit Short, Sell, 09/22/2021 11:08:16, 42037.56000000, SELL Trail Stop Loss
+3115, Entry Long, Buy, 09/22/2021 11:11:00, 42040.9, Exit Long, Buy, 09/22/2021 11:11:08, 42066.17000000, BUY Percent Trail
+3179, Entry Short, Sell, 09/22/2021 11:16:03, 42087.74, Exit Short, Sell, 09/22/2021 11:16:23, 42074.20000000, SELL Trail Stop Loss
+3225, Entry Long, Buy, 09/22/2021 11:19:01, 42075.9, Exit Long, Buy, 09/22/2021 11:19:10, 42059.05000000, BUY Trail Stop Loss
+3277, Entry Short, Sell, 09/22/2021 11:22:04, 42127.49, Exit Short, Sell, 09/22/2021 11:22:14, 42099.97000000, SELL Trail Stop Loss
+3325, Entry Long, Buy, 09/22/2021 11:25:01, 42063.49, Exit Long, Buy, 09/22/2021 11:25:08, 42038.72000000, BUY Trail Stop Loss
+3422, Entry Long, Buy, 09/22/2021 11:33:07, 42036.3, Exit Long, Buy, 09/22/2021 11:33:24, 41952.86000000, BUY Trail Stop Loss
+3438, Entry Long, Buy, 09/22/2021 11:42:27, 41927.01, Exit Long, Buy, 09/22/2021 11:42:43, 41896.53000000, BUY Trail Stop Loss
+3461, Entry Long, Buy, 09/22/2021 11:49:55, 41981.78, Exit Long, Buy, 09/22/2021 11:50:13, 42031.63000000, BUY Percent Trail
+3468, Entry Short, Sell, 09/22/2021 11:52:15, 41985.54, Exit Short, Sell, 09/22/2021 11:53:24, 41972.88000000, SELL Percent Trail
+3497, Entry Short, Sell, 09/22/2021 12:07:27, 42027.2, Exit Short, Sell, 09/22/2021 12:10:21, 41975.43000000, SELL Trail Stop Loss
+3525, Entry Long, Buy, 09/22/2021 12:16:10, 41957.49, Exit Long, Buy, 09/22/2021 12:16:24, 41988.23000000, BUY Percent Trail
+3529, Entry Short, Sell, 09/22/2021 12:18:03, 41978.75, Exit Short, Sell, 09/22/2021 12:18:24, 41979.96000000, SELL Trail Stop Loss
+3538, Entry Short, Sell, 09/22/2021 12:22:06, 42004.52, Exit Short, Sell, 09/22/2021 12:22:40, 42040.01000000, SELL Percent Trail
+3552, Entry Short, Sell, 09/22/2021 12:28:10, 42063.55, Exit Short, Sell, 09/22/2021 12:28:25, 42024.01000000, SELL Trail Stop Loss
+3562, Entry Long, Buy, 09/22/2021 12:31:11, 42065.0, Exit Long, Buy, 09/22/2021 12:31:25, 42098.12000000, BUY Percent Trail
+3576, Entry Short, Sell, 09/22/2021 12:34:05, 42048.06, Exit Short, Sell, 09/22/2021 12:34:19, 42031.36000000, SELL Trail Stop Loss
+3596, Entry Short, Sell, 09/22/2021 12:38:13, 42091.47, Exit Short, Sell, 09/22/2021 12:38:35, 42119.99000000, SELL Trail Stop Loss
+3612, Entry Short, Sell, 09/22/2021 12:41:11, 42113.89, Exit Short, Sell, 09/22/2021 12:41:26, 42142.13000000, SELL Trail Stop Loss
+3637, Entry Long, Buy, 09/22/2021 12:46:14, 42100.01, Exit Long, Buy, 09/22/2021 12:46:32, 42113.92000000, BUY Percent Trail
+3649, Entry Short, Sell, 09/22/2021 12:49:04, 42155.26, Exit Short, Sell, 09/22/2021 12:49:40, 42174.84000000, SELL Percent Trail
+3662, Entry Short, Sell, 09/22/2021 12:52:03, 42167.21, Exit Short, Sell, 09/22/2021 12:52:19, 42170.00000000, SELL Percent Trail
+3687, Entry Short, Sell, 09/22/2021 12:57:43, 42178.97, Exit Short, Sell, 09/22/2021 12:58:17, 42164.85000000, SELL Trail Stop Loss
+3691, Entry Long, Buy, 09/22/2021 13:00:06, 42196.42, Exit Long, Buy, 09/22/2021 13:00:34, 42125.20000000, BUY Trail Stop Loss
+3704, Entry Long, Buy, 09/22/2021 13:14:18, 42544.12, Exit Long, Buy, 09/22/2021 13:14:48, 42481.42000000, BUY Trail Stop Loss
+3718, Entry Short, Sell, 09/22/2021 13:18:10, 42488.01, Exit Short, Sell, 09/22/2021 13:18:56, 42447.32000000, SELL Trail Stop Loss
+3739, Entry Long, Buy, 09/22/2021 13:23:07, 42338.95, Exit Long, Buy, 09/22/2021 13:23:21, 42351.20000000, BUY Percent Trail
+3757, Entry Short, Sell, 09/22/2021 13:25:06, 42378.78, Exit Short, Sell, 09/22/2021 13:25:18, 42374.54000000, SELL Trail Stop Loss
+3798, Entry Long, Buy, 09/22/2021 13:28:02, 42306.51, Exit Long, Buy, 09/22/2021 13:28:14, 42297.72000000, BUY Trail Stop Loss
+3822, Entry Short, Sell, 09/22/2021 13:32:05, 42279.08, Exit Short, Sell, 09/22/2021 13:32:24, 42294.04000000, SELL Percent Trail
+3841, Entry Long, Buy, 09/22/2021 13:36:12, 42260.56, Exit Long, Buy, 09/22/2021 13:36:45, 42271.16000000, BUY Trail Stop Loss
+3844, Entry Short, Sell, 09/22/2021 13:38:20, 42292.25, Exit Short, Sell, 09/22/2021 13:38:41, 42270.50000000, SELL Trail Stop Loss
+3865, Entry Long, Buy, 09/22/2021 13:47:14, 42143.44, Exit Long, Buy, 09/22/2021 13:47:48, 42154.75000000, BUY Percent Trail
+3892, Entry Short, Sell, 09/22/2021 13:55:10, 42273.61, Exit Short, Sell, 09/22/2021 13:55:40, 42300.81000000, SELL Trail Stop Loss
+3918, Entry Short, Sell, 09/22/2021 14:03:24, 42455.03, Exit Short, Sell, 09/22/2021 14:03:36, 42405.10000000, SELL Trail Stop Loss
+3934, Entry Long, Buy, 09/22/2021 14:07:01, 42458.23, Exit Long, Buy, 09/22/2021 14:07:13, 42460.80000000, BUY Trail Stop Loss
+3962, Entry Long, Buy, 09/22/2021 14:12:02, 42400.01, Exit Long, Buy, 09/22/2021 14:12:16, 42414.21000000, BUY Stop Loss
+3973, Entry Short, Sell, 09/22/2021 14:14:04, 42416.43, Exit Short, Sell, 09/22/2021 14:14:38, 42440.23000000, SELL Percent Trail
+1, Entry Short, Sell, 09/22/2021 14:17:12, 42454.82, Exit Short, Sell, 09/22/2021 14:17:41, 42457.00000000, SELL Trail Stop Loss
+14, Entry Long, Buy, 09/22/2021 14:21:05, 42440.0, Exit Long, Buy, 09/22/2021 14:21:26, 42393.74000000, BUY Trail Stop Loss
+29, Entry Long, Buy, 09/22/2021 14:24:06, 42398.73, Exit Long, Buy, 09/22/2021 14:24:29, 42424.56000000, BUY Percent Trail
+1, Entry Short, Sell, 09/22/2021 14:37:09, 42529.6, Exit Short, Sell, 09/22/2021 14:37:17, 42500.01000000, SELL Trail Stop Loss
+17, Entry Long, Buy, 09/22/2021 14:39:16, 42513.14, Exit Long, Buy, 09/22/2021 14:39:34, 42508.55000000, BUY Trail Stop Loss
+23, Entry Short, Sell, 09/22/2021 14:41:10, 42470.49, Exit Short, Sell, 09/22/2021 14:41:21, 42471.02000000, SELL Percent Trail
+79, Entry Short, Sell, 09/22/2021 14:46:05, 42489.52, Exit Short, Sell, 09/22/2021 14:46:17, 42512.18000000, SELL Trail Stop Loss
+94, Entry Long, Buy, 09/22/2021 14:48:00, 42460.0, Exit Long, Buy, 09/22/2021 14:48:08, 42447.91000000, BUY Trail Stop Loss
+117, Entry Short, Sell, 09/22/2021 14:50:07, 42463.02, Exit Short, Sell, 09/22/2021 14:50:23, 42419.94000000, SELL Trail Stop Loss
+156, Entry Long, Buy, 09/22/2021 14:55:02, 42296.96, Exit Long, Buy, 09/22/2021 14:55:10, 42302.36000000, BUY Stop Loss
+178, Entry Short, Sell, 09/22/2021 14:58:14, 42350.93, Exit Short, Sell, 09/22/2021 14:58:37, 42304.21000000, SELL Trail Stop Loss
+184, Entry Long, Buy, 09/22/2021 15:00:04, 42353.56, Exit Long, Buy, 09/22/2021 15:00:14, 42378.00000000, BUY Percent Trail
+221, Entry Short, Sell, 09/22/2021 15:07:02, 42505.26, Exit Short, Sell, 09/22/2021 15:07:14, 42520.00000000, SELL Trail Stop Loss
+257, Entry Short, Sell, 09/22/2021 15:12:16, 42526.76, Exit Short, Sell, 09/22/2021 15:12:39, 42545.31000000, SELL Percent Trail
+321, Entry Long, Buy, 09/22/2021 15:19:21, 42521.12, Exit Long, Buy, 09/22/2021 15:19:54, 42512.98000000, BUY Trail Stop Loss
+345, Entry Long, Buy, 09/22/2021 15:24:03, 42503.48, Exit Long, Buy, 09/22/2021 15:24:16, 42519.21000000, BUY Trail Stop Loss
+388, Entry Short, Sell, 09/22/2021 15:30:07, 42790.54, Exit Short, Sell, 09/22/2021 15:30:19, 42770.00000000, SELL Trail Stop Loss
+477, Entry Short, Sell, 09/22/2021 15:38:16, 43037.73, Exit Short, Sell, 09/22/2021 15:38:27, 42993.64000000, SELL Trail Stop Loss
+522, Entry Long, Buy, 09/22/2021 15:42:03, 42985.46, Exit Long, Buy, 09/22/2021 15:42:12, 43008.54000000, BUY Percent Trail
+571, Entry Short, Sell, 09/22/2021 15:45:04, 43027.05, Exit Short, Sell, 09/22/2021 15:45:10, 43008.88000000, SELL Trail Stop Loss
+635, Entry Long, Buy, 09/22/2021 15:49:04, 43093.86, Exit Long, Buy, 09/22/2021 15:49:13, 43056.04000000, BUY Trail Stop Loss
+722, Entry Short, Sell, 09/22/2021 15:53:02, 43167.39, Exit Short, Sell, 09/22/2021 15:53:10, 43188.88000000, SELL Percent Trail
+777, Entry Short, Sell, 09/22/2021 15:56:05, 43197.81, Exit Short, Sell, 09/22/2021 15:56:14, 43195.64000000, SELL Trail Stop Loss
+800, Entry Long, Buy, 09/22/2021 15:58:01, 43217.67, Exit Long, Buy, 09/22/2021 15:58:08, 43204.77000000, BUY Trail Stop Loss
+831, Entry Short, Sell, 09/22/2021 16:01:01, 43197.83, Exit Short, Sell, 09/22/2021 16:01:08, 43206.19000000, SELL Percent Trail
+862, Entry Long, Buy, 09/22/2021 16:03:03, 43228.6, Exit Long, Buy, 09/22/2021 16:03:11, 43290.47000000, BUY Percent Trail
+924, Entry Long, Buy, 09/22/2021 16:09:06, 43211.27, Exit Long, Buy, 09/22/2021 16:09:14, 43196.11000000, BUY Trail Stop Loss
+948, Entry Short, Sell, 09/22/2021 16:12:03, 43190.29, Exit Short, Sell, 09/22/2021 16:12:09, 43237.16000000, SELL Percent Trail
+965, Entry Short, Sell, 09/22/2021 16:15:05, 43338.81, Exit Short, Sell, 09/22/2021 16:15:11, 43399.76000000, SELL Percent Trail
+1041, Entry Long, Buy, 09/22/2021 16:21:21, 43247.14, Exit Long, Buy, 09/22/2021 16:21:53, 43242.11000000, BUY Trail Stop Loss
+1050, Entry Long, Buy, 09/22/2021 16:24:12, 43275.57, Exit Long, Buy, 09/22/2021 16:24:26, 43273.65000000, BUY Trail Stop Loss
+1056, Entry Short, Sell, 09/22/2021 16:27:23, 43288.25, Exit Short, Sell, 09/22/2021 16:27:49, 43280.01000000, SELL Percent Trail
+1068, Entry Long, Buy, 09/22/2021 16:31:04, 43228.19, Exit Long, Buy, 09/22/2021 16:31:31, 43175.01000000, BUY Trail Stop Loss
+1124, Entry Short, Sell, 09/22/2021 16:38:07, 43325.0, Exit Short, Sell, 09/22/2021 16:38:16, 43336.18000000, SELL Trail Stop Loss
+1192, Entry Long, Buy, 09/22/2021 16:42:01, 43335.54, Exit Long, Buy, 09/22/2021 16:42:08, 43351.37000000, BUY Percent Trail
+1218, Entry Short, Sell, 09/22/2021 16:44:01, 43350.0, Exit Short, Sell, 09/22/2021 16:44:32, 43307.70000000, SELL Trail Stop Loss
+1273, Entry Long, Buy, 09/22/2021 16:49:07, 43302.4, Exit Long, Buy, 09/22/2021 16:49:16, 43319.99000000, BUY Trail Stop Loss
+1290, Entry Short, Sell, 09/22/2021 16:51:07, 43315.71, Exit Short, Sell, 09/22/2021 16:51:27, 43338.00000000, SELL Percent Trail
+1327, Entry Short, Sell, 09/22/2021 16:54:01, 43338.73, Exit Short, Sell, 09/22/2021 16:54:10, 43315.76000000, SELL Trail Stop Loss
+1366, Entry Long, Buy, 09/22/2021 16:57:15, 43347.35, Exit Long, Buy, 09/22/2021 16:57:33, 43363.98000000, BUY Stop Loss
+1383, Entry Short, Sell, 09/22/2021 16:59:03, 43331.13, Exit Short, Sell, 09/22/2021 16:59:33, 43351.54000000, SELL Percent Trail
+1430, Entry Short, Sell, 09/22/2021 17:02:03, 43242.73, Exit Short, Sell, 09/22/2021 17:02:11, 43236.83000000, SELL Percent Trail
+1488, Entry Long, Buy, 09/22/2021 17:06:04, 43187.86, Exit Long, Buy, 09/22/2021 17:06:13, 43206.81000000, BUY Trail Stop Loss
+1512, Entry Short, Sell, 09/22/2021 17:08:10, 43188.96, Exit Short, Sell, 09/22/2021 17:08:17, 43198.51000000, SELL Percent Trail
+1552, Entry Short, Sell, 09/22/2021 17:12:01, 43210.61, Exit Short, Sell, 09/22/2021 17:12:19, 43153.68000000, SELL Trail Stop Loss
+1578, Entry Long, Buy, 09/22/2021 17:14:03, 43264.52, Exit Long, Buy, 09/22/2021 17:14:13, 43250.01000000, BUY Percent Trail
+1641, Entry Long, Buy, 09/22/2021 17:18:05, 43118.52, Exit Long, Buy, 09/22/2021 17:18:12, 43094.84000000, BUY Trail Stop Loss
+1719, Entry Long, Buy, 09/22/2021 17:26:03, 43020.06, Exit Long, Buy, 09/22/2021 17:26:20, 42979.34000000, BUY Stop Loss
+1829, Entry Short, Sell, 09/22/2021 17:35:13, 43094.9, Exit Short, Sell, 09/22/2021 17:35:27, 43085.78000000, SELL Percent Trail
+1871, Entry Short, Sell, 09/22/2021 17:41:13, 43219.52, Exit Short, Sell, 09/22/2021 17:43:37, 43226.85000000, SELL Strategy Close
+1891, Entry Short, Sell, 09/22/2021 17:45:04, 43182.47, Exit Short, Sell, 09/22/2021 17:45:28, 43209.25000000, SELL Percent Trail
+2203, Entry Long, Buy, 09/22/2021 17:59:06, 43125.85, Exit Long, Buy, 09/22/2021 17:59:25, 43115.71000000, BUY Trail Stop Loss
+2262, Entry Short, Sell, 09/22/2021 18:04:02, 43600.0, Exit Short, Sell, 09/22/2021 18:04:12, 43745.48000000, SELL Percent Trail
+1, Entry Short, Sell, 09/23/2021 09:12:04, 43957.55, Exit Short, Sell, 09/23/2021 09:12:18, 43990.00000000, SELL Percent Trail
+83, Entry Short, Sell, 09/23/2021 09:16:02, 44079.92, Exit Short, Sell, 09/23/2021 09:16:27, 44097.53000000, SELL Percent Trail
+198, Entry Short, Sell, 09/23/2021 09:21:00, 44171.1, Exit Short, Sell, 09/23/2021 09:21:07, 44134.61000000, SELL Trail Stop Loss
+287, Entry Long, Buy, 09/23/2021 09:26:03, 44133.76, Exit Long, Buy, 09/23/2021 09:26:09, 44133.74000000, BUY Trail Stop Loss
+34, Entry Long, Buy, 09/23/2021 09:51:02, 43986.9, Exit Long, Buy, 09/23/2021 09:51:09, 43989.25000000, BUY Trail Stop Loss
+92, Entry Short, Sell, 09/23/2021 09:54:06, 44037.18, Exit Short, Sell, 09/23/2021 09:54:37, 44027.63000000, SELL Trail Stop Loss
+119, Entry Long, Buy, 09/23/2021 09:56:03, 44049.99, Exit Long, Buy, 09/23/2021 09:56:10, 44040.72000000, BUY Trail Stop Loss
+281, Entry Long, Buy, 09/23/2021 10:03:02, 43984.34, Exit Long, Buy, 09/23/2021 10:03:10, 43967.64000000, BUY Trail Stop Loss
+1, Entry Long, Buy, 09/23/2021 12:09:46, 43531.15, Exit Long, Buy, 09/23/2021 12:09:51, 43566.44000000, BUY Percent Trail
+4, Entry Long, Buy, 09/23/2021 12:13:02, 43480.92, Exit Long, Buy, 09/23/2021 12:13:07, 43455.61000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 09/23/2021 12:18:04, 43486.57, Exit Short, Sell, 09/23/2021 12:18:17, 43484.07000000, SELL Trail Stop Loss
+77, Entry Long, Buy, 09/23/2021 12:23:05, 43467.42, Exit Long, Buy, 09/23/2021 12:23:10, 43461.20000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 09/24/2021 08:34:07, 44982.01, Exit Short, Sell, 09/24/2021 08:34:12, 44980.10000000, SELL Trail Stop Loss
+1, Entry Short, Sell, 09/24/2021 15:15:06, 42242.15, Exit Short, Sell, 09/24/2021 15:16:05, 42323.99000000, SELL Strategy Close
+57, Entry Long, Buy, 09/24/2021 15:21:03, 42179.35, Exit Long, Buy, 09/24/2021 15:21:10, 42197.10000000, BUY Stop Loss
+1, Entry Short, Sell, 09/24/2021 15:25:06, 42226.44, Exit Short, Sell, 09/24/2021 15:25:11, 42216.16000000, SELL Trail Stop Loss
+18, Entry Short, Sell, 09/24/2021 15:29:04, 42200.63, Exit Short, Sell, 09/24/2021 15:30:04, 42222.22000000, SELL Strategy Close
+17, Entry Long, Buy, 09/24/2021 15:51:03, 41875.81, Exit Long, Buy, 09/24/2021 15:51:10, 41868.11000000, BUY Stop Loss
+62, Entry Long, Buy, 09/24/2021 15:54:02, 41850.0, Exit Long, Buy, 09/24/2021 15:54:09, 41814.13000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 09/24/2021 15:55:05, 41772.37, Exit Short, Sell, 09/24/2021 15:55:13, 41772.56000000, SELL Trail Stop Loss
+18, Entry Long, Buy, 09/24/2021 15:57:04, 41812.85, Exit Long, Buy, 09/24/2021 15:57:10, 41854.47000000, BUY Stop Loss
+1, Entry Long, Buy, 09/24/2021 17:07:05, 41981.45, Exit Long, Buy, 09/24/2021 17:07:12, 41995.14000000, BUY Stop Loss
+62, Entry Long, Buy, 09/24/2021 17:11:03, 41997.02, Exit Long, Buy, 09/24/2021 17:11:11, 41983.04000000, BUY Trail Stop Loss
+19, Entry Long, Buy, 09/24/2021 17:59:05, 41945.0, Exit Long, Buy, 09/24/2021 17:59:12, 41944.06000000, BUY Stop Loss
+1, Entry Long, Buy, 09/24/2021 18:07:05, 42130.0, Exit Long, Buy, 09/24/2021 18:07:10, 42100.94000000, BUY Trail Stop Loss
+88, Entry Short, Sell, 09/24/2021 18:11:04, 42071.7, Exit Short, Sell, 09/24/2021 18:11:09, 42051.10000000, SELL Trail Stop Loss
+136, Entry Short, Sell, 09/24/2021 18:14:01, 42076.97, Exit Short, Sell, 09/24/2021 18:15:03, 42107.05000000, SELL Strategy Close
+183, Entry Long, Buy, 09/24/2021 18:18:05, 42106.98, Exit Long, Buy, 09/24/2021 18:18:10, 42107.02000000, BUY Trail Stop Loss
+5, Entry Short, Sell, 09/24/2021 20:02:04, 42361.73, Exit Short, Sell, 09/24/2021 20:07:08, 42453.26000000, SELL Trail Stop Loss
+1, Entry Long, Buy, 09/28/2021 15:00:05, 41528.98, Exit Long, Buy, 09/28/2021 15:00:09, 41558.89000000, BUY Stop Loss
+226, Entry Long, Buy, 09/28/2021 15:20:11, 41481.91, Exit Long, Buy, 09/28/2021 15:20:15, 41492.86000000, BUY Stop Loss
+1, Entry Long, Buy, 09/30/2021 13:47:07, 43133.18, Exit Long, Buy, 09/30/2021 13:47:14, 43136.13000000, BUY Stop Loss
+147, Entry Short, Sell, 09/30/2021 13:53:04, 43218.05, Exit Short, Sell, 09/30/2021 13:54:03, 43243.31000000, SELL Strategy Close
+192, Entry Long, Buy, 09/30/2021 13:57:05, 43189.44, Exit Long, Buy, 09/30/2021 13:57:11, 43170.66000000, BUY Stop Loss
+301, Entry Long, Buy, 09/30/2021 14:02:05, 43041.58, Exit Long, Buy, 09/30/2021 14:02:12, 43029.73000000, BUY Stop Loss
+318, Entry Short, Sell, 09/30/2021 14:04:04, 43038.68, Exit Short, Sell, 09/30/2021 14:05:06, 43057.49000000, SELL Strategy Close
+401, Entry Long, Buy, 09/30/2021 14:10:04, 42948.66, Exit Long, Buy, 09/30/2021 14:10:11, 42960.64000000, BUY Stop Loss
+419, Entry Short, Sell, 09/30/2021 14:12:04, 43005.11, Exit Short, Sell, 09/30/2021 14:13:02, 43005.57000000, SELL Strategy Close
+434, Entry Long, Buy, 09/30/2021 14:15:04, 43009.07, Exit Long, Buy, 09/30/2021 14:15:10, 43031.36000000, BUY Stop Loss
+464, Entry Short, Sell, 09/30/2021 14:18:04, 43135.38, Exit Short, Sell, 09/30/2021 14:19:03, 43122.85000000, SELL Strategy Close
+536, Entry Long, Buy, 09/30/2021 14:23:06, 43047.71, Exit Long, Buy, 09/30/2021 14:23:12, 43039.62000000, BUY Stop Loss
+552, Entry Short, Sell, 09/30/2021 14:25:03, 43022.75, Exit Short, Sell, 09/30/2021 14:26:11, 43082.99000000, SELL Strategy Close
+584, Entry Short, Sell, 09/30/2021 14:29:04, 43107.44, Exit Short, Sell, 09/30/2021 14:30:09, 43121.97000000, SELL Strategy Close
+598, Entry Long, Buy, 09/30/2021 14:32:03, 43041.44, Exit Long, Buy, 09/30/2021 14:32:10, 43032.62000000, BUY Stop Loss
+687, Entry Short, Sell, 09/30/2021 14:37:05, 43092.55, Exit Short, Sell, 09/30/2021 14:38:07, 43090.87000000, SELL Strategy Close
+1, Entry Long, Buy, 09/30/2021 14:50:05, 43129.05, Exit Long, Buy, 09/30/2021 14:50:11, 43148.90000000, BUY Stop Loss
+78, Entry Long, Buy, 09/30/2021 14:57:05, 43079.49, Exit Long, Buy, 09/30/2021 14:57:11, 43058.18000000, BUY Stop Loss
+135, Entry Short, Sell, 09/30/2021 15:01:04, 43070.0, Exit Short, Sell, 09/30/2021 15:02:04, 43030.18000000, SELL Strategy Close
+149, Entry Long, Buy, 09/30/2021 15:03:04, 43050.59, Exit Long, Buy, 09/30/2021 15:03:09, 43047.08000000, BUY Stop Loss
+186, Entry Short, Sell, 09/30/2021 15:06:03, 43092.72, Exit Short, Sell, 09/30/2021 15:07:03, 43115.56000000, SELL Strategy Close
+19, Entry Short, Sell, 09/30/2021 16:22:06, 43026.0, Exit Short, Sell, 09/30/2021 16:23:04, 43021.77000000, SELL Strategy Close
+62, Entry Long, Buy, 09/30/2021 16:26:03, 43033.8, Exit Long, Buy, 09/30/2021 16:26:10, 43031.78000000, BUY Stop Loss
+208, Entry Long, Buy, 09/30/2021 16:32:07, 42919.22, Exit Long, Buy, 09/30/2021 16:32:13, 42912.19000000, BUY Stop Loss
+266, Entry Long, Buy, 09/30/2021 16:35:04, 42933.19, Exit Long, Buy, 09/30/2021 16:35:10, 42912.01000000, BUY Stop Loss
+1, Entry Short, Sell, 09/30/2021 17:02:03, 42958.42, Exit Short, Sell, 09/30/2021 17:03:03, 42958.45000000, SELL Strategy Close
+15, Entry Short, Sell, 09/30/2021 17:06:02, 43086.27, Exit Short, Sell, 09/30/2021 17:07:02, 43129.49000000, SELL Strategy Close
+66, Entry Short, Sell, 09/30/2021 17:11:03, 43186.76, Exit Short, Sell, 09/30/2021 17:12:04, 43257.21000000, SELL Strategy Close
+130, Entry Long, Buy, 09/30/2021 17:15:03, 43205.67, Exit Long, Buy, 09/30/2021 17:15:09, 43193.48000000, BUY Stop Loss
+1, Entry Long, Buy, 09/30/2021 17:20:05, 43109.2, Exit Long, Buy, 09/30/2021 17:20:10, 43100.00000000, BUY Stop Loss
+1, Entry Short, Sell, 09/30/2021 17:23:06, 43091.13, Exit Short, Sell, 09/30/2021 17:24:05, 43109.95000000, SELL Strategy Close
+44, Entry Short, Sell, 09/30/2021 17:26:03, 43077.01, Exit Short, Sell, 09/30/2021 17:27:06, 43029.36000000, SELL Strategy Close
+55, Entry Long, Buy, 09/30/2021 17:28:04, 43039.17, Exit Long, Buy, 09/30/2021 17:28:11, 43043.20000000, BUY Stop Loss
+1, Entry Long, Buy, 09/30/2021 17:33:05, 43008.38, Exit Long, Buy, 09/30/2021 17:33:11, 43048.97000000, BUY Stop Loss
+62, Entry Short, Sell, 09/30/2021 17:38:06, 43175.57, Exit Short, Sell, 09/30/2021 17:39:05, 43266.29000000, SELL Strategy Close
+111, Entry Short, Sell, 09/30/2021 17:42:03, 43237.6, Exit Short, Sell, 09/30/2021 17:42:41, 43372.88000000, SELL Trail Stop Loss
+207, Entry Short, Sell, 09/30/2021 17:47:05, 43269.79, Exit Short, Sell, 09/30/2021 17:48:06, 43258.69000000, SELL Strategy Close
+217, Entry Long, Buy, 09/30/2021 17:49:02, 43279.98, Exit Long, Buy, 09/30/2021 17:49:07, 43291.33000000, BUY Stop Loss
+232, Entry Short, Sell, 09/30/2021 17:51:04, 43295.27, Exit Short, Sell, 09/30/2021 17:52:05, 43245.64000000, SELL Strategy Close
+243, Entry Long, Buy, 09/30/2021 17:53:05, 43251.16, Exit Long, Buy, 09/30/2021 17:53:13, 43255.10000000, BUY Stop Loss
+275, Entry Short, Sell, 09/30/2021 17:56:06, 43355.01, Exit Short, Sell, 09/30/2021 17:57:06, 43339.99000000, SELL Strategy Close
+302, Entry Long, Buy, 09/30/2021 17:59:05, 43335.34, Exit Long, Buy, 09/30/2021 17:59:12, 43335.35000000, BUY Stop Loss
+372, Entry Short, Sell, 09/30/2021 18:03:03, 43371.6, Exit Short, Sell, 09/30/2021 18:04:04, 43314.15000000, SELL Strategy Close
+382, Entry Long, Buy, 09/30/2021 18:05:05, 43387.04, Exit Long, Buy, 09/30/2021 18:05:13, 43379.76000000, BUY Stop Loss
+398, Entry Short, Sell, 09/30/2021 18:07:03, 43380.01, Exit Short, Sell, 09/30/2021 18:08:05, 43423.33000000, SELL Strategy Close
+513, Entry Long, Buy, 09/30/2021 18:13:02, 43402.36, Exit Long, Buy, 09/30/2021 18:13:10, 43424.92000000, BUY Stop Loss
+35, Entry Short, Sell, 09/30/2021 19:02:00, 44047.62, Exit Short, Sell, 09/30/2021 19:03:04, 44070.63000000, SELL Strategy Close
+164, Entry Long, Buy, 09/30/2021 19:09:04, 43907.99, Exit Long, Buy, 09/30/2021 19:10:05, 43864.72000000, BUY Strategy Close
+282, Entry Short, Sell, 09/30/2021 19:15:03, 43925.9, Exit Short, Sell, 09/30/2021 19:16:03, 43941.73000000, SELL Strategy Close
+434, Entry Long, Buy, 09/30/2021 19:22:01, 43858.65, Exit Long, Buy, 09/30/2021 19:23:06, 43905.30000000, BUY Strategy Close
+443, Entry Short, Sell, 09/30/2021 19:24:00, 43905.29, Exit Short, Sell, 09/30/2021 19:25:04, 43897.81000000, SELL Strategy Close
+471, Entry Long, Buy, 09/30/2021 19:27:01, 43936.73, Exit Long, Buy, 09/30/2021 19:28:05, 43937.79000000, BUY Strategy Close
+1, Entry Long, Buy, 09/30/2021 23:52:04, 43804.07, Exit Long, Buy, 09/30/2021 23:53:03, 43831.34000000, BUY Strategy Close
+1, Entry Short, Sell, 09/30/2021 23:54:03, 43808.09, Exit Short, Sell, 09/30/2021 23:55:01, 43769.52000000, SELL Strategy Close
+51, Entry Long, Buy, 09/30/2021 23:58:00, 43774.38, Exit Long, Buy, 09/30/2021 23:58:10, 43756.10000000, BUY Stop Loss
+145, Entry Short, Sell, 10/01/2021 00:04:01, 43966.54, Exit Short, Sell, 10/01/2021 00:04:28, 43981.67000000, SELL Stop Loss
+270, Entry Long, Buy, 10/01/2021 00:10:00, 43784.03, Exit Long, Buy, 10/01/2021 00:10:10, 43743.18000000, BUY Stop Loss
+1, Entry Long, Buy, 10/01/2021 09:52:03, 44889.99, Exit Long, Buy, 10/01/2021 09:52:33, 44865.99000000, BUY Trail Stop Loss
+42, Entry Long, Buy, 10/01/2021 09:54:59, 44847.71, Exit Long, Buy, 10/01/2021 09:55:09, 44859.20000000, BUY Percent Trail
+1, Entry Long, Buy, 10/01/2021 10:11:03, 44900.98, Exit Long, Buy, 10/01/2021 10:11:13, 44883.53000000, BUY Trail Stop Loss
+83, Entry Long, Buy, 10/01/2021 10:16:03, 44904.75, Exit Long, Buy, 10/01/2021 10:16:16, 44892.00000000, BUY Trail Stop Loss
+118, Entry Long, Buy, 10/01/2021 10:19:02, 44894.92, Exit Long, Buy, 10/01/2021 10:19:36, 44870.18000000, BUY Trail Stop Loss
+1, Entry Long, Buy, 10/01/2021 11:01:04, 47111.91, Exit Long, Buy, 10/01/2021 11:01:13, 47090.05000000, BUY Trail Stop Loss
+70, Entry Long, Buy, 10/01/2021 11:05:01, 47198.01, Exit Long, Buy, 10/01/2021 11:05:10, 47154.18000000, BUY Trail Stop Loss
+74, Entry Short, Sell, 10/01/2021 11:19:01, 47396.02, Exit Short, Sell, 10/01/2021 11:20:04, 47332.48000000, SELL Strategy Close
+124, Entry Long, Buy, 10/01/2021 11:23:02, 47266.92, Exit Long, Buy, 10/01/2021 11:24:05, 47247.77000000, BUY Trail Stop Loss
+155, Entry Short, Sell, 10/01/2021 11:26:02, 47252.03, Exit Short, Sell, 10/01/2021 11:26:35, 47308.02000000, SELL Trail Stop Loss
+202, Entry Short, Sell, 10/01/2021 11:29:01, 47348.08, Exit Short, Sell, 10/01/2021 11:29:16, 47356.30000000, SELL Trail Stop Loss
+1, Entry Short, Sell, 10/01/2021 11:33:04, 47260.9, Exit Short, Sell, 10/01/2021 11:33:19, 47280.16000000, SELL Trail Stop Loss
+2, Entry Long, Buy, 10/01/2021 11:34:03, 47284.01, Exit Long, Buy, 10/01/2021 11:34:57, 47329.22000000, BUY Trail Stop Loss
+1, Entry Short, Sell, 10/01/2021 11:36:03, 47306.89, Exit Short, Sell, 10/01/2021 11:36:20, 47322.75000000, SELL Trail Stop Loss
+2, Entry Long, Buy, 10/01/2021 11:37:03, 47362.9, Exit Long, Buy, 10/01/2021 11:37:14, 47333.91000000, BUY Trail Stop Loss
+3, Entry Short, Sell, 10/01/2021 11:38:03, 47303.72, Exit Short, Sell, 10/01/2021 11:38:18, 47357.07000000, SELL Trail Stop Loss
+4, Entry Long, Buy, 10/01/2021 11:39:03, 47392.7, Exit Long, Buy, 10/01/2021 11:39:17, 47437.58000000, BUY Trail Stop Loss
+23, Entry Short, Sell, 10/01/2021 11:41:02, 47370.0, Exit Short, Sell, 10/01/2021 11:41:42, 47394.27000000, SELL Trail Stop Loss
+24, Entry Long, Buy, 10/01/2021 11:42:04, 47389.8, Exit Long, Buy, 10/01/2021 11:42:13, 47381.75000000, BUY Trail Stop Loss
+25, Entry Short, Sell, 10/01/2021 11:43:04, 47393.89, Exit Short, Sell, 10/01/2021 11:43:20, 47406.91000000, SELL Trail Stop Loss
+26, Entry Long, Buy, 10/01/2021 11:44:03, 47404.92, Exit Long, Buy, 10/01/2021 11:44:15, 47410.00000000, BUY Trail Stop Loss
+64, Entry Short, Sell, 10/01/2021 11:47:02, 47574.01, Exit Short, Sell, 10/01/2021 11:48:06, 47477.51000000, SELL Strategy Close
+163, Entry Long, Buy, 10/01/2021 11:54:02, 47391.84, Exit Long, Buy, 10/01/2021 11:54:21, 47381.56000000, BUY Trail Stop Loss
+164, Entry Short, Sell, 10/01/2021 11:55:03, 47381.56, Exit Short, Sell, 10/01/2021 11:55:13, 47423.48000000, SELL Trail Stop Loss
+165, Entry Long, Buy, 10/01/2021 11:56:03, 47401.95, Exit Long, Buy, 10/01/2021 11:56:13, 47393.82000000, BUY Trail Stop Loss
+200, Entry Short, Sell, 10/01/2021 11:59:03, 47468.99, Exit Short, Sell, 10/01/2021 11:59:13, 47499.99000000, SELL Trail Stop Loss
+201, Entry Long, Buy, 10/01/2021 12:00:03, 47512.99, Exit Long, Buy, 10/01/2021 12:00:14, 47489.81000000, BUY Trail Stop Loss
+202, Entry Short, Sell, 10/01/2021 12:01:03, 47464.37, Exit Short, Sell, 10/01/2021 12:01:31, 47482.99000000, SELL Trail Stop Loss
+203, Entry Long, Buy, 10/01/2021 12:02:03, 47527.13, Exit Long, Buy, 10/01/2021 12:02:55, 47629.86000000, BUY Trail Stop Loss
+234, Entry Short, Sell, 10/01/2021 12:05:01, 47559.35, Exit Short, Sell, 10/01/2021 12:05:12, 47518.91000000, SELL Trail Stop Loss
+235, Entry Long, Buy, 10/01/2021 12:06:03, 47560.75, Exit Long, Buy, 10/01/2021 12:06:22, 47603.77000000, BUY Trail Stop Loss
+252, Entry Short, Sell, 10/01/2021 12:08:01, 47609.34, Exit Short, Sell, 10/01/2021 12:09:09, 47612.84000000, SELL Strategy Close
+262, Entry Long, Buy, 10/01/2021 12:10:02, 47629.41, Exit Long, Buy, 10/01/2021 12:10:27, 47624.15000000, BUY Trail Stop Loss
+277, Entry Short, Sell, 10/01/2021 12:12:01, 47587.51, Exit Short, Sell, 10/01/2021 12:13:04, 47565.39000000, SELL Strategy Close
+340, Entry Long, Buy, 10/01/2021 12:17:03, 47548.37, Exit Long, Buy, 10/01/2021 12:17:44, 47615.04000000, BUY Trail Stop Loss
+14, Entry Short, Sell, 10/01/2021 13:15:03, 47227.99, Exit Short, Sell, 10/01/2021 13:16:08, 47267.31000000, SELL Strategy Close
+15, Entry Long, Buy, 10/01/2021 13:16:27, 47269.12, Exit Long, Buy, 10/01/2021 13:17:07, 47256.40000000, BUY Strategy Close
+39, Entry Short, Sell, 10/01/2021 13:19:05, 47231.58, Exit Short, Sell, 10/01/2021 13:20:06, 47184.54000000, SELL Strategy Close
+1, Entry Long, Buy, 10/01/2021 13:25:02, 47318.03, Exit Long, Buy, 10/01/2021 13:29:59, 47264.05000000, BUY Trail Stop Loss
+2, Entry Short, Sell, 10/01/2021 13:30:17, 47291.75, Exit Short, Sell, 10/01/2021 13:35:02, 47195.48000000, SELL Strategy Close
+331, Entry Long, Buy, 10/01/2021 13:50:01, 47116.17, Exit Long, Buy, 10/01/2021 13:55:04, 47108.74000000, BUY Strategy Close
+332, Entry Short, Sell, 10/01/2021 13:55:22, 47114.66, Exit Short, Sell, 10/01/2021 14:00:02, 46978.06000000, SELL Strategy Close
+1, Entry Short, Sell, 10/03/2021 14:21:04, 47987.25, Exit Short, Sell, 10/03/2021 14:22:06, 47982.91000000, SELL Strategy Close
+18, Entry Long, Buy, 10/03/2021 14:26:03, 47994.03, Exit Long, Buy, 10/03/2021 14:27:03, 47980.71000000, BUY Strategy Close
+1, Entry Long, Buy, 10/03/2021 14:28:04, 47988.21, Exit Long, Buy, 10/03/2021 14:29:03, 47992.91000000, BUY Strategy Close
+12, Entry Short, Sell, 10/03/2021 14:30:01, 47988.0, Exit Short, Sell, 10/03/2021 14:31:02, 47994.79000000, SELL Strategy Close
+24, Entry Long, Buy, 10/03/2021 14:32:01, 47996.64, Exit Long, Buy, 10/03/2021 14:33:03, 47983.99000000, BUY Strategy Close
+25, Entry Short, Sell, 10/03/2021 14:33:22, 47990.47, Exit Short, Sell, 10/03/2021 14:34:06, 48000.00000000, SELL Strategy Close
+26, Entry Long, Buy, 10/03/2021 14:34:25, 47989.48, Exit Long, Buy, 10/03/2021 14:35:07, 47970.55000000, BUY Strategy Close
+27, Entry Short, Sell, 10/03/2021 14:35:26, 47972.27, Exit Short, Sell, 10/03/2021 14:36:05, 47964.19000000, SELL Strategy Close
+56, Entry Long, Buy, 10/03/2021 14:38:03, 47973.52, Exit Long, Buy, 10/03/2021 14:39:06, 47984.61000000, BUY Strategy Close
+67, Entry Short, Sell, 10/03/2021 14:40:01, 47981.33, Exit Short, Sell, 10/03/2021 14:41:05, 47960.44000000, SELL Strategy Close
+97, Entry Long, Buy, 10/03/2021 14:43:05, 47984.96, Exit Long, Buy, 10/03/2021 14:44:02, 47992.36000000, BUY Strategy Close
+183, Entry Short, Sell, 10/03/2021 14:49:03, 48005.11, Exit Short, Sell, 10/03/2021 14:50:04, 47992.95000000, SELL Strategy Close
+251, Entry Long, Buy, 10/03/2021 14:54:05, 47913.86, Exit Long, Buy, 10/03/2021 14:55:10, 47933.21000000, BUY Strategy Close
+261, Entry Short, Sell, 10/03/2021 14:56:01, 47921.74, Exit Short, Sell, 10/03/2021 14:57:02, 47928.47000000, SELL Strategy Close
+262, Entry Long, Buy, 10/03/2021 14:57:22, 47916.87, Exit Long, Buy, 10/03/2021 14:58:02, 47914.78000000, BUY Strategy Close
+263, Entry Short, Sell, 10/03/2021 14:58:23, 47926.45, Exit Short, Sell, 10/03/2021 14:59:04, 47934.14000000, SELL Strategy Close
+264, Entry Long, Buy, 10/03/2021 14:59:25, 47928.41, Exit Long, Buy, 10/03/2021 15:00:02, 47968.05000000, BUY Strategy Close
+278, Entry Short, Sell, 10/03/2021 15:01:01, 47950.03, Exit Short, Sell, 10/03/2021 15:02:04, 47925.01000000, SELL Strategy Close
+310, Entry Long, Buy, 10/03/2021 15:04:04, 47934.58, Exit Long, Buy, 10/03/2021 15:05:03, 47921.08000000, BUY Strategy Close
+311, Entry Short, Sell, 10/03/2021 15:05:22, 47923.46, Exit Short, Sell, 10/03/2021 15:06:03, 47938.48000000, SELL Strategy Close
+1, Entry Short, Sell, 10/03/2021 15:34:05, 47909.14, Exit Short, Sell, 10/03/2021 15:35:04, 47907.16000000, SELL Strategy Close
